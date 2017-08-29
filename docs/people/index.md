@@ -11,7 +11,7 @@ Our lab is lucky to have an energetic group of talented graduate student researc
 
 - [Dr. Joe Wheaton](http://etal.joewheaton.org/people/dr-joe-wheaton)
 
-- Graduate Students
+- **Graduate Students**
 
   - [Connor Penrod](http://etal.joewheaton.org/people/students/connor-penrod)
   - [Daniel Hamill](http://etal.joewheaton.org/people/students/daniel-hamill)
@@ -19,9 +19,7 @@ Our lab is lucky to have an energetic group of talented graduate student researc
   - [Martha Jensen](http://etal.joewheaton.org/people/students/martha-jensen)
   - [Rebecca Rossi](http://etal.joewheaton.org/people/students/rebecca-rossi)
 
-- ​
-
-  Researchers & Technicians
+- **Researchers & Technicians**
 
   - [Adan Banda](http://etal.joewheaton.org/people/researchers-technicians/adan-banda)
   - [Chalese Hafen](http://etal.joewheaton.org/people/researchers-technicians/chalese-hafen)
@@ -38,13 +36,11 @@ Our lab is lucky to have an energetic group of talented graduate student researc
   - [W. Carl Saunders](http://etal.joewheaton.org/people/researchers-technicians/w-carl-saunders)
   - [Wally Macfarlane](http://etal.joewheaton.org/people/researchers-technicians/Wally)
 
-- [Staff/Administrative](http://etal.joewheaton.org/people/administrative-staff)
+- **[Staff/Administrative]**(http://etal.joewheaton.org/people/administrative-staff)
 
-- [Visiting Scholars](http://etal.joewheaton.org/people/visiting-scholars)
+- **[Visiting Scholars]**(http://etal.joewheaton.org/people/visiting-scholars)
 
-- ​
-
-  Where are they now?
+- **Where are they now?**
 
   - [Ester Ramos](http://etal.joewheaton.org/people/where-are-they-now/ester-ramos)
   - [Former Graduate Students](http://etal.joewheaton.org/people/where-are-they-now/former-graduate-students)
