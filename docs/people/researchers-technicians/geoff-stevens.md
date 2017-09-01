@@ -38,7 +38,7 @@ Geoff is interested in how fluvial processes and alteration affect the reproduct
 
 [![Geoff_Stevens]({{ site.baseurl }}/assets/images/Geoff_Stevens.jpg)]({{ site.baseurl }}/assets/images/hr/Geoff_Stevens.jpg)
 
-Utah State UniversityWatershed Sciences Department
+Utah State University Watershed Sciences Department
 5210 Old Main Hill, NR 210
 Logan UT 84322-5210
 
