@@ -42,3 +42,17 @@ The FHC was very sad to lose Martha after she became an instrumental fixture in 
 
 - [Columbia Habitat Monitoring Program (CHaMP)](https://www.champmonitoring.org/)
 - [Beaver Restoration Assessment Tool (BRAT)](http://brat.joewheaton.org/)
+
+Utah State University
+Watershed Sciences Department
+5210 Old Main Hill, NR 210
+Logan UT 84322-5210
+
+**Office**: [ ECC 102](http://www.usu.edu/map/index.cfm?id=19)
+
+Website:
+
+[GIS projects](https://sites.google.com/site/gismarthajensen/)
+
+[GIS projects](https://sites.google.com/site/marthajensengis/)
+
