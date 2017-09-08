@@ -10,7 +10,7 @@ This is a partial listing of projects that Joe Wheaton and the ET-AL have undert
 
 #### ET-AL Projects
 
-- Current Projects
+- [Current Projects]({{ site.baseurl }}/projects/current-projects)
   - [ELR/BPA: ISEMP Bridge Creek Restoration & IMW](http://etal.joewheaton.org/projects/current-projects/elr-bpa-isemp-bridge-creek-restoration-imw)
   - [ELR/BPA: ISEMP John Day Fluvial Audits & River Styles](http://etal.joewheaton.org/projects/current-projects/elr-bpa-isemp-john-day-fluvial-audits-river-styles)
   - [ELR/FHC/CTWS: Pine Creek Beaver Assisted Restoration Pilot Project](http://etal.joewheaton.org/projects/current-projects/elr-fhc-ctws-pilot-beaver-assisted-restoration-project)
@@ -23,7 +23,7 @@ This is a partial listing of projects that Joe Wheaton and the ET-AL have undert
   - [USFS Classification of Columbia River Basin Riparian Vegetation](http://etal.joewheaton.org/projects/current-projects/classification-of-columbia-basin-riparia)
   - [USFS: Temple Fork Watershed Fish & Beaver Ecology](http://etal.joewheaton.org/projects/current-projects/usfs-temple-fork-watershed-fish-beaver-ecology)
   - [USGS: Dynamism and Persistence of Eddy Sand Bars in Grand Canyon](http://etal.joewheaton.org/projects/current-projects/usgs-dynamism-and-persistence-of-eddy-sand-bars-in-grand-canyon)
-- Past Projects
+- [Past Projects]({{ site.baseurl }}/projects/past-projects)
   - [BLM: Historic Sand Cliff Signatures Public Archeology Program](http://etal.joewheaton.org/projects/past-projects/blm-historic-sand-cliff-signatures-public-arche)
   - [BPA/SFR: Development of CHaMP Transformation Tool](http://etal.joewheaton.org/projects/past-projects/bpa-sfr-development-of-champ-transformation-tool)
   - [DOE/ICRRR: Geomorphic Change Detection 4.0 Software Development](http://etal.joewheaton.org/projects/past-projects/doe-icrrr-geomorphic-change-detection-4-0-software-development)
