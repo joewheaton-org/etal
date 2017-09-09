@@ -7,7 +7,7 @@ title: NSF: Sensitivity of Braided River Morphodynamics to Sediment Supply
 ![nsf1]({{ site.baseurl }}/assets/images/nsf1.gif)
 
 **Project Type:  **Sponsored Research
-**Project Sponsor:  **National Science Foundation: [Geomorphology and Landuse Dynamics](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13690)](http://www.nwfsc.noaa.gov/)
+**Project Sponsor:  **National Science Foundation: [Geomorphology and Landuse Dynamics](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13690)
 **Project Location:** River Feshie, Scotland & River Rees, New Zealand
 **Status:**   Completed, April 2016
 
