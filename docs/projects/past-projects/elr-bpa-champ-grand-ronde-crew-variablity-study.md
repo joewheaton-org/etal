@@ -4,8 +4,6 @@ title: ELR/BPA: CHaMP Grand Ronde Crew Variability Study
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-
-
 ![ELRLogo]({{ site.baseurl }}/assets/images/ELRLogo.png)
 
 **Project Type:  **Sponsored Research
