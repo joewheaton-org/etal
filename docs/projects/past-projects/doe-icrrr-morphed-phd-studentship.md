@@ -1,5 +1,5 @@
 ---
-title: DOE/ICRRR: Geomorphic Change Detection in the Grand Canyon
+title: DOE/ICRRR: DOE/ICRRR: MoRPHED PhD Studentship
 ---
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
@@ -47,7 +47,7 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 
 ### Presentations from this Project
 
-- *Poster: *Kasprak A and Wheaton J. 2011. Morphodynamic Modeling of Gravel Bed Rivers: a Step-Length Based Approach, AGU Fall Meeting 2011. American Geophysical Union: San Francisco, CA. EP23C-0778.
+- *Poster:* Kasprak A and Wheaton J. 2011. Morphodynamic Modeling of Gravel Bed Rivers: a Step-Length Based Approach, AGU Fall Meeting 2011. American Geophysical Union: San Francisco, CA. EP23C-0778.
 
 ### Publications from this Project
 
