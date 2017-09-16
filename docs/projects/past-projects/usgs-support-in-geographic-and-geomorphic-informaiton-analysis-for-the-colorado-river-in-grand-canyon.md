@@ -6,8 +6,8 @@ title: USGS: Support in Geographic and Geomorphic Information Analysis for the C
 
 ![USGS_logo]({{ site.baseurl }}/assets/images/USGS_logo.png)
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **USGS [Grand Canyon Monitoring Research Center](http://www.gcmrc.gov/)
+**Project Type:** Sponsored Research
+**Project Sponsor:** USGS [Grand Canyon Monitoring Research Center](http://www.gcmrc.gov/)
 **Project Location:** Grand Canyon, AZ
 **Status:**   Completed
 

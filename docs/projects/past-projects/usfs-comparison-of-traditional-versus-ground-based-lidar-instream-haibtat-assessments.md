@@ -6,8 +6,8 @@ title: USFS: Comparison of Traditional Versus Ground-Based LiDaR Instream Haibta
 
 ![USFS_Logo_svg]({{ site.baseurl }}/assets/images/USFS_Logo_svg.gif)
 
-**Project Type:  **Sponsored Research (Challenge Cost Share Agreement)
-**Project Sponsor:  **US Forest Service
+**Project Type:** Sponsored Research (Challenge Cost Share Agreement)
+**Project Sponsor:** US Forest Service
 **Project Location:** Logan River Watershed, Cache National Forest, Utah
 **Status:**   Completed
 

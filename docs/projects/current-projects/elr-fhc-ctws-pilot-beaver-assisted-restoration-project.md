@@ -7,7 +7,7 @@ title: ELR/FHC/CTWS: Pine Creek Beaver Assisted Restoration Pilot Project
 ![ELR_Lab_Black_wTransparent_100]({{ site.baseurl }}/assets/images/ELR_Lab_Black_wTransparent_100.png)
 
 **Project Type:  **Contracted Pilot Project
-**Project Sponsor:  **Confederated Tribes of Warm Springs, OR
+**Project Sponsor:** Confederated Tribes of Warm Springs, OR
 **Project Location:** Pine Creek within the Lower John Day Watershed, Oregon
 **Status:**   Completed (January 2015)
 

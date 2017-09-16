@@ -6,8 +6,8 @@ title: NSF: zCloudTools: Making Point Clouds Useful for Earth Science
 
 ![nsf1]({{ site.baseurl }}/assets/images/nsf1.gif)
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **National Science Foundation - [Geoinformatics](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf11581)
+**Project Type:** Sponsored Research
+**Project Sponsor:** National Science Foundation - [Geoinformatics](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf11581)
 **Project Location:** Not Site Specific
 **Status:**   Funded
 

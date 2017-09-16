@@ -7,7 +7,7 @@ title: Idaho Power: TLS Data Analysis
 ![IdahoPower]({{ site.baseurl }}/assets/images/IdahoPower.jpg)
 
 **Project Type:  **Contract
-**Project Sponsor:  **[Idaho Power Company](http://www.idahopower.com/)
+**Project Sponsor:** [Idaho Power Company](http://www.idahopower.com/)
 **Project Location:** Hells Canyon, Snake River, ID
 **Status:**   Completed
 

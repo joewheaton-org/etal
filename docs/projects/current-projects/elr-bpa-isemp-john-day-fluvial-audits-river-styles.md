@@ -6,8 +6,8 @@ title: ELR/BPA: ISEMP John Day Fluvial Audits & River Styles
 
 ![ELRLogo]({{ site.baseurl }}/assets/images/ELRLogo.png)
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **Eco Logical Research, Inc.
+**Project Type:** Sponsored Research
+**Project Sponsor:** Eco Logical Research, Inc.
 **Project Location:** John Day Basin, Oregon
 **Status:**   Ongoing
 

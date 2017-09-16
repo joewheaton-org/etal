@@ -6,8 +6,8 @@ title: ELR/BPA: CHaMP Grand Ronde Crew Variability Study
 
 ![ELRLogo]({{ site.baseurl }}/assets/images/ELRLogo.png)
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **Eco Logical Research, Inc.
+**Project Type:** Sponsored Research
+**Project Sponsor:** Eco Logical Research, Inc.
 **Project Location:**  Grand Ronde River, Oregon
 **Status:**   Complete
 

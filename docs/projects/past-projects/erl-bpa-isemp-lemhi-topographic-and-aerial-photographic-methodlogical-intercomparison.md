@@ -6,8 +6,8 @@ title: ELR/BPA: ISEMP Lemhi Topographic Survey Technique Intercomparison
 
 ![ELRLogo]({{ site.baseurl }}/assets/images/ELRLogo.png)
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **Eco Logical Research, Inc.
+**Project Type:** Sponsored Research
+**Project Sponsor:** Eco Logical Research, Inc.
 **Project Location:** [Lemhi River Intensively Monitored Watershed](http://www.nwfsc.noaa.gov/research/divisions/cbd/mathbio/isemp/projects_lemhi.cfmp/projects_bridge_creek.cfm), Lemhi River Basin, Idaho
 **Status:**   Completed
 

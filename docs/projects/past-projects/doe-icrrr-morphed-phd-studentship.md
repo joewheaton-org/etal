@@ -7,7 +7,7 @@ title: DOE/ICRRR: DOE/ICRRR: MoRPHED PhD Studentship
 ![ICRRR_Logo_100]({{ site.baseurl }}/assets/images/ICRRR_Logo_100.gif)
 
 **Project Type:  **ICRRR Supported Research
-**Project Sponsor:  **Name of Agency, Client or Unsponsored
+**Project Sponsor:** Name of Agency, Client or Unsponsored
 **Project Location:** Some River, Some State, Some Country or Not Site Specific
 **Status:**  Completed
 

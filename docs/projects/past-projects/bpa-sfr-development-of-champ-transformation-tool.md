@@ -5,7 +5,7 @@ title: BPA/SFR: Development of CHaMP Transformation Tool
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 **Project Type: ** Contract
-**Project Sponsor:  **South Fork Research, Inc.
+**Project Sponsor:** South Fork Research, Inc.
 **Project Location:** Columbia River Basin / Not Site Specific
 **Status:**   Completed
 

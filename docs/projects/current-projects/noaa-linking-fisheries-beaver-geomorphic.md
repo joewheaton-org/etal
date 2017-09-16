@@ -4,8 +4,8 @@ title: NOAA: Linking Fisheries, beaver, geomorphic and physical habitat monitori
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **[NOAA Northwest Fisheries Science Center](http://www.nwfsc.noaa.gov/)
+**Project Type:** Sponsored Research
+**Project Sponsor:** [NOAA Northwest Fisheries Science Center](http://www.nwfsc.noaa.gov/)
 **Project Location:** Bridge Creek, OR
 **Status:**   Ongoing
 

@@ -4,8 +4,8 @@ title: USGS: Big Rivers Monitoring Protocol Development
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **USGS & National Park Service
+**Project Type:** Sponsored Research
+**Project Sponsor:** USGS & National Park Service
 **Project Location:** Dinosaur National Monument
 **Status:**   Ongoing (through [NPS: Assessment of Indicator Sites & Quantifying Short-Term Effects of High Flows on Riparian Vegetation along the Yampa & Green Rivers]({{ site.baseurl }}/projects/current-projects/nps-assessment-of-indicator-sites-quantifying-short-term-effects-of-high-flows-on-riparian-vegetation-along-the-yampa-green-rivers))
 

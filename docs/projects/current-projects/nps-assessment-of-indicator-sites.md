@@ -6,8 +6,8 @@ title: NPS: Assessment of Indicator Sites & Quantifying Short-Term Effects of Hi
 
 ![NationalParkService-Logo.svg]({{ site.baseurl }}/assets/images/NationalParkService-Logo.svg.png)
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **[National Park Service [Northern Colorado Plateau Monitoring Network](http://science.nature.nps.gov/im/units/ncpn/index.cfm)](http://www.nwfsc.noaa.gov/)
+**Project Type:** Sponsored Research
+**Project Sponsor:** [National Park Service [Northern Colorado Plateau Monitoring Network](http://science.nature.nps.gov/im/units/ncpn/index.cfm)](http://www.nwfsc.noaa.gov/)
 **Project Location:** Dinosaur National Monument, CO/UT
 **Status:**   Ongoing
 

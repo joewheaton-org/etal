@@ -7,7 +7,7 @@ title: DOE/ICRRR: Geomorphic Change Detection 4.0 Software Developmentool
 ![ICRRR_Logo_100]({{ site.baseurl }}/assets/images/ICRRR_Logo_100.gif)
 
 **Project Type: **ICRRR Supported Research
-**Project Sponsor:  **[Intermountain Center for River Rehabilitation and Restoration](http://www.cnr.usu.edu/icrrr/)
+**Project Sponsor:** [Intermountain Center for River Rehabilitation and Restoration](http://www.cnr.usu.edu/icrrr/)
 **Project Location:** Not Site Specific
 **Status:**   Completed
 

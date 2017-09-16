@@ -7,7 +7,7 @@ title: DOE/ICRRR: Geomorphic Change Detection in the Grand Canyon
 ![ICRRR_Logo_100]({{ site.baseurl }}/assets/images/ICRRR_Logo_100.gif)
 
 **Project Type:  **ICRRR Supported Research
-**Project Sponsor:  **[Intermountain Center for River Restoration and Rehabilitation](http://www.cnr.usu.edu/icrrr/) (ICRRR)
+**Project Sponsor:** [Intermountain Center for River Restoration and Rehabilitation](http://www.cnr.usu.edu/icrrr/) (ICRRR)
 **Project Location:** Grand Canyon, AZ
 **Status:**  Completed
 

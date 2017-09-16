@@ -6,8 +6,8 @@ title: USGS: Riparian Vegetation Analysis
 
 ![USGS_logo]({{ site.baseurl }}/assets/images/USGS_logo.png)
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **USGS [Grand Canyon Monitoring Research Center](http://www.gcmrc.gov/)
+**Project Type:** Sponsored Research
+**Project Sponsor:** USGS [Grand Canyon Monitoring Research Center](http://www.gcmrc.gov/)
 **Project Location:** Some River, Some State, Some Country or Not Site Specific
 **Status:**   Ongoing, Planned or Completed (delete others)
 

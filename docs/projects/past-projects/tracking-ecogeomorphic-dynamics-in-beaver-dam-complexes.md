@@ -5,7 +5,7 @@ title: USU: Tracking Ecogeomorphic Dynamics in Beaver Dam Complexes
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 **Project Type:  **Pilot Project
-**Project Sponsor:  **Utah State University Research Catalyst Grant
+**Project Sponsor:** Utah State University Research Catalyst Grant
 **Project Location:** Logan River Watershed, Utah
 **Status:**   Completed
 

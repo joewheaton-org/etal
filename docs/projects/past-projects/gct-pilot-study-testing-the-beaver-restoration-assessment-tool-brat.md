@@ -6,8 +6,8 @@ title: ELR/BPA: GCT: Pilot Study: Testing the Beaver Restoration Assessment Tool
 
 ![gct-logo2]({{ site.baseurl }}/assets/images/gct-logo2.gif)
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **[Grand Canyon Trust ](http://www.grandcanyontrust.org/)
+**Project Type:** Sponsored Research
+**Project Sponsor:** [Grand Canyon Trust ](http://www.grandcanyontrust.org/)
 **Project Location:** Escalante River Watershed, UT
 **Status:**   Complete
 
