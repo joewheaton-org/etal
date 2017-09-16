@@ -4,7 +4,7 @@ title: Elijah Portugal
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/docs/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) > [Former Researchers]({{ site.baseurl }}/docs/people/where-are-they-now/former-researchers/index) >
+[People]({{site.baseurl}}/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) > [Former Researchers]({{ site.baseurl }}/docs/people/where-are-they-now/former-researchers/index) >
 
 After leaving the FHC in March of 2016, Elijah Portugal went to work for the Natural Resources Services Division of Redwood Community Action Agency, a non-profit organization based in Northern California nearby Elijah’s hometown of Arcata, CA. He is a Projects Coordinator/Fluvial Geomorphologist working on a variety of process-based river and estuarine restoration projects primarily related to increasing the quality and quantity of salmonid habitat and water quality in the redwood region of coastal Northern California. In his current capacity, he is involved in all phases of restoration including; project development, planning, design, implementation and monitoring. He can be reached at [elijahwp@gmail.com](mailto:elijahwp@gmail.com). 
 

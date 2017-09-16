@@ -4,7 +4,7 @@ title: Adan Banda
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/docs/people/index) -> [Researchers & Technicians]({{ site.baseurl }}/docs/people/researchers-technicians/index)
+[People]({{site.baseurl}}/people/index) -> [Researchers & Technicians]({{ site.baseurl }}/docs/people/researchers-technicians/index)
 
 Job Title: **Junior GIS Technician**
 Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)

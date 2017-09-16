@@ -4,7 +4,7 @@ title: Sonya Welsh
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/docs/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) > [Former Graduate Students]({{ site.baseurl }}/docs/people/where-are-they-now/former-graduate-students)
+[People]({{site.baseurl}}/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) > [Former Graduate Students]({{ site.baseurl }}/docs/people/where-are-they-now/former-graduate-students)
 
 **Job Title:** Graduate Research Assistant
 **Primary Affiliation:** [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)

@@ -4,7 +4,7 @@ title: James Hensleigh
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/docs/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) > [Former Graduate Students]({{ site.baseurl }}/docs/people/where-are-they-now/former-graduate-students)
+[People]({{site.baseurl}}/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) > [Former Graduate Students]({{ site.baseurl }}/docs/people/where-are-they-now/former-graduate-students)
 
 **Current Job: **Geospatial Programmer & Analyst for ET-AL
 **USU Job Title:** Graduate Research Assistant

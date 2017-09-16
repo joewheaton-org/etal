@@ -4,7 +4,7 @@ title: Martha Jensen
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/docs/people/index) -> [Graduate Students]({{ site.baseurl }}/docs/people/students/index)
+[People]({{site.baseurl}}/people/index) -> [Graduate Students]({{ site.baseurl }}/docs/people/students/index)
 
 Job Title: **MS Research Assisstant**
 Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)

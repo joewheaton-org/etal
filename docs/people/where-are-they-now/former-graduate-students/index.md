@@ -4,7 +4,7 @@ title: Former Graduate Students
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/docs/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) >
+[People]({{site.baseurl}}/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) >
 
 #### Past Students
 
