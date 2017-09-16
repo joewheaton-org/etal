@@ -7,7 +7,7 @@ title: Gary O'Brien
 [People]({{site.baseurl}}/docs/people/index) -> [Researchers & Technicians]({{ site.baseurl }}/docs/people/researchers-technicians/index)
 
 Job Title: **Fluvial Geomorphologist**
-Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
+Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 ### Education
@@ -71,5 +71,5 @@ Contribution to [DataBasin](http://databasin.org/people/grobrien)
 **Office**:  [ECC 102](http://www.usu.edu/map/index.cfm?id=19)
 **Office Phone**: 435-757-5057
 
-Personal Website:  [Staff Profile](http://www.cnr.usu.edu/wats/htm/faculty-staff/memberID=11046)
+Personal Website:  [Staff Profile](http://qcnr.usu.edu/wats//htm/faculty-staff/memberID=11046)
 

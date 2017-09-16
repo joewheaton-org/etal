@@ -7,7 +7,7 @@ title: Martha Jensen
 [People]({{site.baseurl}}/docs/people/index) -> [Graduate Students]({{ site.baseurl }}/docs/people/students/index)
 
 Job Title: **MS Research Assisstant**
-Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
+Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 ### Education

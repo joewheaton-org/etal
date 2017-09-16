@@ -8,7 +8,7 @@ title: Jordan Gilbert
 
 Job Title: **GIS technician and researcher**
 
-Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats/)
+Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats//)
 
 Secondary Affiliation: [Ecogeomorphology and Topographic Analysis Lab]({{ site.baseurl }})
 

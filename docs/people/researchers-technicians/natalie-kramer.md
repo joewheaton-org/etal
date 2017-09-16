@@ -7,7 +7,7 @@ title: Natalie Kramer
 [People]({{site.baseurl}}/docs/people/index) -> [Researchers & Technicians]({{ site.baseurl }}/docs/people/researchers-technicians/index)
 
 Job Title: **Post Doctoral Researcher**
-Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
+Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 ### Education
@@ -96,6 +96,6 @@ Logan UT 84322-5210
 **Office**:  NA
 **Office Phone**: 530-722-5789
 
-[Staff Profile](http://www.cnr.usu.edu/wats/htm/faculty-staff/memberID=3844)
+[Staff Profile](http://qcnr.usu.edu/wats//htm/faculty-staff/memberID=3844)
 
 [![https://drive.google.com/open?id=0B5F6gwlaJmjhX0drLUg2ZGVZX3M](http://etal.joewheaton.org/_/rsrc/1440733459887/config/pagetemplates/staff-profile-page/PDF_Icon.png)](https://drive.google.com/open?id=0B5F6gwlaJmjhX0drLUg2ZGVZX3M)Curriculum Vitae

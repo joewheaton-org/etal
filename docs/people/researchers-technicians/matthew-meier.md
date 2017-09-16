@@ -7,7 +7,7 @@ title: Matthew Meier
 [People]({{site.baseurl}}/docs/people/index) -> [Researchers & Technicians]({{ site.baseurl }}/docs/people/researchers-technicians/index)
 
 Job Title: **Surveyor and Geospatial Analyst**
-Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
+Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 ### Education

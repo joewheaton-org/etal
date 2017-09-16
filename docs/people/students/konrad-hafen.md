@@ -7,7 +7,7 @@ title: Konrad Hafen
 [People]({{site.baseurl}}/docs/people/index) -> [Graduate Students]({{ site.baseurl }}/docs/people/students/index)
 
 Job Title: **Graduate Research Assistant**
-Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
+Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 ### Education
@@ -44,9 +44,9 @@ My research interests focus on watershed, fisheries, wildlife management, especi
 
 #### Peer Reviewed Publications
 
-- **Hafen, K., **and P. Budy. 2015. Agonisitic behavior between three trout species commonly stocked in Utah reservoirs. North American Journal of Fisheries Management 35:551-556. 
-- **Hafen, K., **and D. N. Koons. **In review**. Factors affecting intraspecific brood parasitism in Wood Ducks of the Intermountain West. The Condor: Ornithological Applications.
-- Ruprecht, J. S., K. R. Hersey, **K. Hafen**, K. L. Monteith, N. J. Decesare, M. J. Kauffman, and D. R. MacNulty. **In review**. The relationship between body condition and pregnancy in moose (*Alces alces shirasi*) at their southern range limit. Journal of Mammalogy.
+- **Hafen, K.,** and P. Budy. 2015. Agonisitic behavior between three trout species commonly stocked in Utah reservoirs. North American Journal of Fisheries Management 35:551-556. 
+- **Hafen, K.,** and D. N. Koons. **In review**. Factors affecting intraspecific brood parasitism in Wood Ducks of the Intermountain West. The Condor: Ornithological Applications.
+- Ruprecht, J. S., K. R. Hersey, **K. Hafen**, K. L. Monteith, N. J. Decesare, M. J. Kauffman, and D. R. MacNulty. In review. The relationship between body condition and pregnancy in moose (*Alces alces shirasi*) at their southern range limit. Journal of Mammalogy.
 
 #### Conference Papers, Presentations & Posters
 

@@ -6,7 +6,7 @@ weight: 1
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 Job Title:**Assistant Professor**
-Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
+Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 Secondary Affiliations: 
 
 - Director of [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }}), 
@@ -32,7 +32,7 @@ Logan UT 84322-5210
 **Office Phone**: 435-554-1247
 
 [Personal Website](http://joewheaton.org/)
-[Staff Profile](http://www.cnr.usu.edu/wats/htm/directory-plugin/memberID=2549)
+[Staff Profile](http://qcnr.usu.edu/wats//htm/directory-plugin/memberID=2549)
 
 
 

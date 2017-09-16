@@ -17,7 +17,7 @@ Primary Former USU Affiliation: Intermountain Center for River Rehabilitation & 
 Secondary USU Affiliations: 
 
 - [Ecogeomorphology & Topographic Analysis Lab ](https://joewheaton-org.github.io/etal/)
-- [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
+- [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 - [River Restoration Northwest](http://www.rrnw.org/)
 
 

@@ -8,7 +8,7 @@ title: Reid Camp
 
 **Job Title:** Graduate Research Assistant
 **Current Affiliation**: Eco Logical Research, Inc.
-**Primary Affiliation:** [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
+**Primary Affiliation:** [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 **Secondary Affiliation**: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 **Degree**: M.S. - Watershed Science 
 **Faculty Advisor**: [Joe Wheaton]({{ site.baseurl }}/docs/people/dr-joe-wheaton)

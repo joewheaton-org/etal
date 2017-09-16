@@ -7,7 +7,7 @@ title: Kenny DeMeurichy
 [People]({{site.baseurl}}/docs/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) > [Former Researchers]({{ site.baseurl }}/docs/people/where-are-they-now/former-researchers/index) >
 
 Job Title: **Terrestrial Laser Scanning Analyst & Research Technician**
-Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
+Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 
