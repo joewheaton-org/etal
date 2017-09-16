@@ -17,6 +17,10 @@ defaults:
       layout: "default"
 
 settings:
+  autoPageContents:
+    active: true
+    onHome: false
+    
   sideMenu:
     homeItem: true
     startexpanded: true
