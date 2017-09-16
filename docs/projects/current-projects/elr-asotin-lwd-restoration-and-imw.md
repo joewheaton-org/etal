@@ -6,10 +6,10 @@ title: ELR: Asotin LWD Restoration and IMW
 
 ![ELRLogo]({{ site.baseurl }}/assets/images/ELRLogo.png)
 
-**Project Type:  **Sponsored Research
-**Project Sponsor:  **Eco Logical Research, Inc.
+**Project Type:** Sponsored Research
+**Project Sponsor:** Eco Logical Research, Inc.
 **Project Location:** [Asotin Creek Intensively Monitored Watershed](https://sites.google.com/a/ecologicalresearch.net/ecologicalreseach-net/home/projects/asotin-intensively-monitored-watershed), Washington
-**Status:**   Ongoing
+**Status:** Ongoing
 
 ## Project Overview
 
@@ -53,7 +53,7 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 
 ### Publications from this Project
 
-- Wheaton J**, **Bennett S, Bouwes N, and Camp R. 2012. [Asotin Creek Intensively Monitored Watershed: Restoration Plan for North Fork Asotin, South Fork Asotin and Charlie Creeks](http://etal.usu.edu/Asotin/AsotinRestorationPlan_v1.pdf), Eco Logical Research, Inc., Prepared for Snake River Salmon Recovery Board. Logan, UT, 125 pp.
+- Wheaton J, Bennett S, Bouwes N, and Camp R. 2012. [Asotin Creek Intensively Monitored Watershed: Restoration Plan for North Fork Asotin, South Fork Asotin and Charlie Creeks](http://etal.usu.edu/Asotin/AsotinRestorationPlan_v1.pdf), Eco Logical Research, Inc., Prepared for Snake River Salmon Recovery Board. Logan, UT, 125 pp.
 
 ### Software or Tools from this Project
 
@@ -70,6 +70,6 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 **Project Personnel from ET-AL:** [Kenny DeMeurichy]({{ site.baseurl }}/people/where-are-they-now/former-researchers/kenny-demeurichy)
 **Project Collaborators:** Steve Bennett (ELR), Nick Bouwes (ELR), Reid Camp (ELR)
 **Funding Source:** Eco Logical Research
-**Project Start Date:  **October, 2009
+**Project Start Date:** October, 2009
 **Project End Date (anticipated):** Indefinite
 
