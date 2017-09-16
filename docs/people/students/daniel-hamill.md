@@ -8,7 +8,7 @@ title: Daniel Hamill
 
 **Job Title:** Graduate Research Assistant
 **Primary Affiliation:** [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
-**Secondary Affiliation**: [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/a/joewheaton.org/et-al/)**Degree Seeking**: M.S. - Watershed Science
+**Secondary Affiliation**: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})**Degree Seeking**: M.S. - Watershed Science
 **Faculty Advisor:** [Joe Wheaton](https://qcnr.usu.edu/directory/wheaton_joseph)
 **Committee Members: **TBD
 **Year Started**: 2015

@@ -8,7 +8,7 @@ title: Ester Ramos
 
 Job Title: **PhD modeling morphosedimentary dynamics** 
 Primary Affiliation: [Department of Environment and Soil Sciences of the Universitat de Lleida (UdL)](http://www.fluvialdynamics.com/)
-Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/a/joewheaton.org/et-al/)
+Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 ### Education
 

@@ -8,7 +8,7 @@ title: Adan Banda
 
 Job Title: **Junior GIS Technician**
 Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
-Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/a/joewheaton.org/et-al/)
+Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 ### Education
 
@@ -20,11 +20,11 @@ Adan is interested in bioregional planning and the relationships that are shared
 
 ### Bio
 
-**Adan Banda**, is a GIS technician for the ET-AL at Utah State University. He has worked for the Utah Conservation Corps in the Bryce Canyon National Park offices assisting with the GPS/GIS data management for herbicide regimens prescribed throughout the park. He has also worked as a lab assistant at USU assisting in the research of  the diversity-productivity relationship. Adan will be graduating in the Fall of 2017 with a bachelor’s degree in Geography with an emphasis in Geographical Analysis. He also hopes to pursue his M.S. in Bioregional Planning beginning in the spring of 2018. In his free time he enjoys hiking, backpacking, working-out, and biking. 
+**Adan Banda**, is a GIS technician for the ET-AL at Utah State University. He has worked for the Utah Conservation Corps in the Bryce Canyon National Park offices assisting with the GPS/GIS data management for herbicide regimens prescribed throughout the park. He has also worked as a lab assistant at USU assisting in the research of  the diversity-productivity relationship. Adan will be graduating in the Fall of 2017 with a bachelor’s degree in Geography with an emphasis in Geographical Analysis. He also hopes to pursue his M.S. in Bioregional Planning beginning in the spring of 2018. In his free time he enjoys hiking, backpacking, working-out, and biking.
 
 [![Adan_Banda]({{ site.baseurl }}/assets/images/Adan_Banda.jpg)]({{ site.baseurl }}/assets/images/hr/Adan_Banda.jpg)
 
 Utah State University
 Watershed Sciences Department
-5210 Old Main Hill, 
+5210 Old Main Hill,
 Logan UT 84322-5210

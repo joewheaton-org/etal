@@ -8,7 +8,7 @@ title: James Hensleigh
 
 **Current Job: **Geospatial Programmer & Analyst for ET-AL
 **USU Job Title:** Graduate Research Assistant
-**Current Affiliation:** [Department of Watershed Sciences](http://www.cnr.usu.edu/wats),  [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/a/joewheaton.org/et-al/)
+**Current Affiliation:** [Department of Watershed Sciences](http://www.cnr.usu.edu/wats),  [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 **Degree Seeking**: M.S. - Watershed Science - Plan B
 **Faculty Advisor** [Joe Wheaton]({{ site.baseurl }}/docs/people/dr-joe-wheaton)
 **Committee Members:** Joe Wheaton, Patrick Belmont, Mac Mckee

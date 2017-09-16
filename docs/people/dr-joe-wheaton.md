@@ -9,7 +9,7 @@ Job Title:**Assistant Professor**
 Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
 Secondary Affiliations: 
 
-- Director of [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/a/joewheaton.org/et-al/), 
+- Director of [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }}), 
 - Co-Director of [Intermountain Center for River Rehabilitation and Restoration](http://www.cnr.usu.edu/icrrr/)
 - Faculty of [Ecology Center](http://www.usu.edu/ecology/)
 

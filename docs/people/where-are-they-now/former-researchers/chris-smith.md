@@ -10,7 +10,7 @@ USU Job Title: **GIS Technician**
 
 Current Affiliation: [US Fish & Wildlife Service](http://www.fws.gov/vernalfishandwildlife/)
 
-Former USU Affiliation: [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/a/joewheaton.org/et-al/)
+Former USU Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 
 

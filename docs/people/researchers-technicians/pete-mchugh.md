@@ -8,7 +8,7 @@ title: Pete McHugh
 
 Job Title: **Research Scientist**
 Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
-Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/a/joewheaton.org/et-al/)
+Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 ### Education
 

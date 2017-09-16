@@ -8,7 +8,7 @@ title: Kenny DeMeurichy
 
 Job Title: **Terrestrial Laser Scanning Analyst & Research Technician**
 Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
-Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/a/joewheaton.org/et-al/)
+Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 
 

@@ -8,7 +8,7 @@ title: Jordan Burningham
 
 Job Title: **GIS/Research Technician**
 Primary Affiliation: [Department of Watershed Sciences](http://www.cnr.usu.edu/wats)
-Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/a/joewheaton.org/et-al/)
+Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 
 [![Jordan_coffee]({{ site.baseurl }}/assets/images/Jordan_coffee.jpg)]({{ site.baseurl }}/assets/images/hr/Jordan_coffee.jpg)
 
