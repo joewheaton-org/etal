@@ -27,7 +27,7 @@ Braided rivers are those in which the flow is divided into multiple parallel cha
 
 ### Related Links & Research
 
-- [Alan Kasprak](http://alankasprak.org/) began this work with funding and support from a [DOE/ICRRR: MoRPHED PhD Studentship](http://etal.joewheaton.org/projects/past-projects/doe-icrrr-morphed-phd-studentship), and then was funded with this NSF grant, and finishing up funds from USU
+- [Alan Kasprak](http://alankasprak.org/) began this work with funding and support from a [DOE/ICRRR: MoRPHED PhD Studentship]({{ site.baseurl }}/projects/past-projects/doe-icrrr-morphed-phd-studentship), and then was funded with this NSF grant, and finishing up funds from USU
 - [MoRPHED](http://morphed.joewheaton.org/) 
 
 ------

@@ -52,7 +52,7 @@ A few bullets to related links and research (both our own and external)
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/) 
-**Project Personnel from ET-AL:** Ryan Leary and [Kenny DeMeurichy](http://etal.joewheaton.org/people/where-are-they-now/former-researchers/kenny-demeurichy)
+**Project Personnel from ET-AL:** Ryan Leary and [Kenny DeMeurichy]({{ site.baseurl }}/people/where-are-they-now/former-researchers/kenny-demeurichy)
 **Project Collaborators:** Kelvin Anderson, Mark Morehead and Chris Welcker
 **Funding Source:** ****[Idaho Power Company](http://www.idahopower.com/)
 **Project Start Date: ** September, 2011

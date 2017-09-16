@@ -39,8 +39,8 @@ Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.bas
 
 ### Past Projects
 
-- [Intercomparison of airborne and ground-based topographic survey techniques for characterizing instream habitat](http://etal.joewheaton.org/projects/past-projects/erl-bpa-isemp-lemhi-topographic-and-aerial-photographic-methodlogical-intercomparison), Lemhi River basin, Idaho, USA
-- [The influence of crew variability when using high resolution topographic surveys to monitor instream habitat](http://etal.joewheaton.org/projects/past-projects/elr-bpa-champ-grand-ronde-crew-variablity-study), Upper Grande Ronde River basin, Oregon, USA
+- [Intercomparison of airborne and ground-based topographic survey techniques for characterizing instream habitat]({{ site.baseurl }}/projects/past-projects/erl-bpa-isemp-lemhi-topographic-and-aerial-photographic-methodlogical-intercomparison), Lemhi River basin, Idaho, USA
+- [The influence of crew variability when using high resolution topographic surveys to monitor instream habitat]({{ site.baseurl }}/projects/past-projects/elr-bpa-champ-grand-ronde-crew-variablity-study), Upper Grande Ronde River basin, Oregon, USA
 
 ------
 

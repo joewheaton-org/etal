@@ -8,7 +8,7 @@ title: Alan Kasprak
 
 **Job Title:** Graduate Research Assistant
 **Primary Affiliation:** [Department of Watershed Sciences](http://www.google.com/url?q=http%3A%2F%2Fwww.cnr.usu.edu%2Fwats&sa=D&sntz=1&usg=AFrqEzc_IuzHjGkuIlCIOF67A0r8gwQ4PA)
-**Secondary Affiliation**: [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/people)**Degree Seeking**: Ph.D. - Watershed Science
+**Secondary Affiliation**: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }}/people)**Degree Seeking**: Ph.D. - Watershed Science
 **Faculty Advisor**: [Joe Wheaton]({{ site.baseurl }}/people/dr-joe-wheaton)
 **Committee Members:** Nick Bouwes, Patrick Belmont, Joel Pederson & Jack Schmidt, 
 **Year Started:** 2010

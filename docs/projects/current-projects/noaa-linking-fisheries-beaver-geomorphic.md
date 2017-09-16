@@ -57,7 +57,7 @@ Aerial imagery of each study reach was collected using a blimp. Snorkel surveys 
 
 ### Related Links & Research
 
-- [ELR/BPA: ISEMP Bridge Creek Restoration & IMW](http://etal.joewheaton.org/projects/current-projects/elr-bpa-isemp-bridge-creek-restoration-imw)
+- [ELR/BPA: ISEMP Bridge Creek Restoration & IMW]({{ site.baseurl }}/projects/current-projects/elr-bpa-isemp-bridge-creek-restoration-imw)
 - [Integrated Status & Effectiveness Monitoring Program](http://www.nwfsc.noaa.gov/research/divisions/cbd/mathbio/isemp/index.cfm)
 - ISEMP - [Bridge Creek Intensively Monitored Watershed](http://www.nwfsc.noaa.gov/research/divisions/cbd/mathbio/isemp/projects_bridge_creek.cfm)
 - [Bridge Creek IMW Collaborators Pages](https://sites.google.com/a/ecologicalresearch.net/bridgeimw/home)
@@ -75,7 +75,7 @@ Aerial imagery of each study reach was collected using a blimp. Snorkel surveys 
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/) 
-**Project Personnel from ET-AL:** [Florence Consolati](http://etal.joewheaton.org/people/where-are-they-now/former-graduate-students/florie-consolati) (MS Student)
+**Project Personnel from ET-AL:** [Florence Consolati]({{ site.baseurl }}/people/where-are-they-now/former-graduate-students/florie-consolati) (MS Student)
 **Project Collaborators:** Michael Pollock (NOAA), Nick Bouwes (ELR), Beth Neilson (USU), and Chris Jordan (NOAA)
 **Funding Source:** ****[NOAA Northwest Fisheries Science Center](http://www.nwfsc.noaa.gov/) (NOAA Award: RA133F11SE2628)
 **Project Start Date: **September, 2011

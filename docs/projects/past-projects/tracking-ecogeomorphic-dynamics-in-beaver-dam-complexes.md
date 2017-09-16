@@ -62,7 +62,7 @@ A few bullets to related links and research (both our own and external)
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/) 
-**Project Personnel from ET-AL:** [Kenny DeMeurichy](http://etal.joewheaton.org/people/where-are-they-now/former-researchers/kenny-demeurichy)
+**Project Personnel from ET-AL:** [Kenny DeMeurichy]({{ site.baseurl }}/people/where-are-they-now/former-researchers/kenny-demeurichy)
 **Project Collaborators:** Collaorator Names and Links (comma separated list)
 **Funding Source:** USU
 **Project Start Date: **January, 2010

@@ -55,7 +55,7 @@ Data will be available as an online supplement to a peer-reviewed manuscript (Ho
 
 ### Project Details
 
-**Project PI:**  [Brett Roper](http://www.fs.fed.us/research/people/profile.php?alias=broper)**Project Personnel from ET-AL:** [Nate Hough-Snee](http://natehough-snee.org/), [Joe Wheaton](http://etal.joewheaton.org/people/dr-joe-wheaton) (Co-PI & NH-S PhD Supervisor)
+**Project PI:**  [Brett Roper](http://www.fs.fed.us/research/people/profile.php?alias=broper)**Project Personnel from ET-AL:** [Nate Hough-Snee](http://natehough-snee.org/), [Joe Wheaton]({{ site.baseurl }}/people/dr-joe-wheaton) (Co-PI & NH-S PhD Supervisor)
 **Project Collaborators:** Brett Roper
 **Funding Source:** USDA Forest Service provides salary support to NH-S
 **Project Start Date: **May 2012

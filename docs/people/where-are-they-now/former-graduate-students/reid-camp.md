@@ -32,7 +32,7 @@ As of 2014, Reid is working.
 
 ### Research
 
-Reid will be analyzing data collected from the [Asotin Creek Intensively Monitored Watershed](http://etal.joewheaton.org/projects/current-projects/elr-asotin-lwd-restoration-and-imw) restoration project to determine the hydraulic and geomorphic responses of in-stream structures on Asotin Creek. 
+Reid will be analyzing data collected from the [Asotin Creek Intensively Monitored Watershed]({{ site.baseurl }}/projects/current-projects/elr-asotin-lwd-restoration-and-imw) restoration project to determine the hydraulic and geomorphic responses of in-stream structures on Asotin Creek. 
 
 **HDLWD: **The restoration method being tested within the scope of the Asotin Creek Intensively Monitored Watershed (IMW) is called High Density Large Woody Debris (HDLWD). The overarching principal of this technique is to place LWD in streams in densities that meet or exceed reference conditions. However, along with unsecured LWD, we implemented Post Assisted Log Structures (PALS) which are expected to remain in place for 2-5 years. PALS are created by pounding wooden fence posts into the stream bed to keep multiple pieces of LWD in place during multiple high flow events. During periods of high flow, PALS disrupt the uniform hydraulics which is typical for many reaches in Asotin Creek, and in turn alters the sediment regime. In reaches devoid of structural elements, PALS create more diverse hydraulics and facilitate the creation of geomorphic units, altering the channel from plane bed to a mixture of pools, bars, planar features. The hydraulic breaks provide refugia from high water velocity, and cover from predators. Although PALS make up a large component of the structures implemented in the IMW, it is the high density of structures and unsecured LWD that may be the most important aspect of this method. We increased LWD/100m by about 20 pieces in each stream.
 
@@ -42,13 +42,13 @@ We are monitoring the hydraulic and geomorphic responses using a mobile database
 
 ### Bio
 
-Reid Camp has been working for [Eco Logical Research, Inc.](http://ecologicalresearch.net/) and collaborating with ET-AL on the [Asotin Creek Intensively Monitored Watershed](http://etal.joewheaton.org/projects/current-projects/elr-asotin-lwd-restoration-and-imw) for the past four years. Reid started his MS in Watershed Sciences Spring semester 2013. He has a BS from University of Idaho in Fisheries and extensive experience running both the fish sampling and habitat crews for the Asotin IMW.  Reid wanted to round out his skill-set with formal training in fluvial geomorphology and hydrology. Reid defended his thesis successfully in December 2014 and is returning to ELR and will continue to be an active part of the FHC.
+Reid Camp has been working for [Eco Logical Research, Inc.](http://ecologicalresearch.net/) and collaborating with ET-AL on the [Asotin Creek Intensively Monitored Watershed]({{ site.baseurl }}/projects/current-projects/elr-asotin-lwd-restoration-and-imw) for the past four years. Reid started his MS in Watershed Sciences Spring semester 2013. He has a BS from University of Idaho in Fisheries and extensive experience running both the fish sampling and habitat crews for the Asotin IMW.  Reid wanted to round out his skill-set with formal training in fluvial geomorphology and hydrology. Reid defended his thesis successfully in December 2014 and is returning to ELR and will continue to be an active part of the FHC.
 
 ------
 
 ### Projects
 
-- [Asotin Creek Intensively Monitored Watershed (IMW)](http://etal.joewheaton.org/projects/current-projects/elr-asotin-lwd-restoration-and-imw)
+- [Asotin Creek Intensively Monitored Watershed (IMW)]({{ site.baseurl }}/projects/current-projects/elr-asotin-lwd-restoration-and-imw)
 - [EcoTech Solutions: Data Collection Specialists](http://www.ecotsolutions.com/)
 
 ------

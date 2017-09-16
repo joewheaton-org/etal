@@ -16,7 +16,7 @@ Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.bas
 
 ### Where is she now
 
-The FHC was very sad to lose Martha after she became an instrumental fixture in the lab and contributed to so many different projects.  Martha worked in the lab from 2013-2014 and in the Fall of 2014 started a MS. So [she](http://etal.joewheaton.org/people/students/martha-jensen) is staying on in ETAL as a graduate student!
+The FHC was very sad to lose Martha after she became an instrumental fixture in the lab and contributed to so many different projects.  Martha worked in the lab from 2013-2014 and in the Fall of 2014 started a MS. So [she]({{ site.baseurl }}/people/students/martha-jensen) is staying on in ETAL as a graduate student!
 
 ### Education
 

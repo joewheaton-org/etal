@@ -35,7 +35,7 @@ Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.bas
 
 ### Projects
 
-- [GCT: Pilot Study: Testing the Beaver Restoration Assessment Tool (BRAT)](http://etal.joewheaton.org/projects/past-projects/gct-pilot-study-testing-the-beaver-restoration-assessment-tool-brat)
+- [GCT: Pilot Study: Testing the Beaver Restoration Assessment Tool (BRAT)]({{ site.baseurl }}/projects/past-projects/gct-pilot-study-testing-the-beaver-restoration-assessment-tool-brat)
 - CHaMP: Substrate Grain Size Sampling Protocol Testing
 - Mapping rangeland plant species using stereo-vertical ground based photography
 

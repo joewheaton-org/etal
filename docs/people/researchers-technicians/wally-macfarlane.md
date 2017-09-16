@@ -43,9 +43,9 @@ Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.bas
 - Valley bottom and riparian vegetation assessment: Utah statewide
 - Valley Bottom and Riparian Area Delineation: Colorado Plateau Ecoregion
 - Utah Statewide Beaver Restoration Assessment Tool (BRAT)
-- [GCT: Pilot Study: Testing the Beaver Restoration Assessment Tool (BRAT)](http://etal.joewheaton.org/projects/past-projects/gct-pilot-study-testing-the-beaver-restoration-assessment-tool-brat)
-- [NPS: Assessment of Indicator Sites & Quantifying Short-Term Effects of High Flows on Riparian Vegetation along the Yampa & Green Rivers](http://etal.joewheaton.org/projects/current-projects/nps-assessment-of-indicator-sites-quantifying-short-term-effects-of-high-flows-on-riparian-vegetation-along-the-yampa-green-rivers)
-- [USGS: Big River Monitoring Protocol Development](http://etal.joewheaton.org/projects/past-projects/Big-Rivers-Protocol)
+- [GCT: Pilot Study: Testing the Beaver Restoration Assessment Tool (BRAT)]({{ site.baseurl }}/projects/past-projects/gct-pilot-study-testing-the-beaver-restoration-assessment-tool-brat)
+- [NPS: Assessment of Indicator Sites & Quantifying Short-Term Effects of High Flows on Riparian Vegetation along the Yampa & Green Rivers]({{ site.baseurl }}/projects/current-projects/nps-assessment-of-indicator-sites-quantifying-short-term-effects-of-high-flows-on-riparian-vegetation-along-the-yampa-green-rivers)
+- [USGS: Big River Monitoring Protocol Development]({{ site.baseurl }}/projects/past-projects/Big-Rivers-Protocol)
 
 ------
 
@@ -59,9 +59,9 @@ Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.bas
 
 - **Macfarlane, W.W.**, C.M McGinty, B.G. Laub and S.J. Gifford. 2016. High resolution riparian vegetation mapping to prioritize conservation and restoration in an impaired desert river.  Restoration Ecology. <http://dx.doi.org/10.1111/rec.12425>
 
-- **Macfarlane, W.W., **J.M. Wheaton,  N. Bouwes, M. L. Jensen, J. T. Gilbert, N. Hough-Snee, and J. A. Shivik. 2015. Modeling the capacity of riverscapes to support dam-building beaver. Geomorphology. [ ](http://etal.joewheaton.org/people/researchers-technicians/goog_1704636725)<http://www.sciencedirect.com/science/article/pii/S0169555X15302166>
+- **Macfarlane, W.W., **J.M. Wheaton,  N. Bouwes, M. L. Jensen, J. T. Gilbert, N. Hough-Snee, and J. A. Shivik. 2015. Modeling the capacity of riverscapes to support dam-building beaver. Geomorphology. [ ]({{ site.baseurl }}/people/researchers-technicians/goog_1704636725)<http://www.sciencedirect.com/science/article/pii/S0169555X15302166>
 
-- Budy, P., M.M. Conner, N.L. Salant and **W.W. Macfarlane**. 2015. Occupancy-Based Assessment of Regional Vulnerability of Endemic Desert Fishes: A Template for Conservation Actions. Conservation Biology 29 (4) 1142-1152.[ ](http://etal.joewheaton.org/people/researchers-technicians/goog_1704636722)<http://onlinelibrary.wiley.com/doi/10.1111/cobi.12513/full>
+- Budy, P., M.M. Conner, N.L. Salant and **W.W. Macfarlane**. 2015. Occupancy-Based Assessment of Regional Vulnerability of Endemic Desert Fishes: A Template for Conservation Actions. Conservation Biology 29 (4) 1142-1152.[ ]({{ site.baseurl }}/people/researchers-technicians/goog_1704636722)<http://onlinelibrary.wiley.com/doi/10.1111/cobi.12513/full>
 
 - **Macfarlane**, **W.W.**, Logan, J. A., and W.R. Kern. 2013. An aerial survey assessment of mountain pine beetle-caused whitebark pine mortality in the Greater Yellowstone Ecosystem. Ecological Applications.23:421–437.<http://www.esajournals.org/doi/pdf/10.1890/11-1982.1>
 

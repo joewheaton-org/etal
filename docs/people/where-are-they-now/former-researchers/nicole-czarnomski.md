@@ -48,9 +48,9 @@ Utilizing [Geomorphic Change Detection](http://gcd.joewheaton.org/) Software to 
 
 - Geomorphic change detection of sandbar-eddy complexes on the Colorado River
 
-- - [USGS: Dynamism and Persistence of Eddy Sand Bars in Grand Canyon](http://etal.joewheaton.org/projects/current-projects/usgs-dynamism-and-persistence-of-eddy-sand-bars-in-grand-canyon)
-  - [DOE/ICRRR: Geomorphic Change Detection in the Grand Canyon](http://etal.joewheaton.org/projects/past-projects/doe-icrrr-geomorphic-change-detection-in-the-grand-canyon)
-  - [USGS: Support in Geographic and Geomorphic Information Analysis for the Colorado River in Grand Canyon](http://etal.joewheaton.org/projects/past-projects/usgs-support-in-geographic-and-geomorphic-informaiton-analysis-for-the-colorado-river-in-grand-canyon)
+- - [USGS: Dynamism and Persistence of Eddy Sand Bars in Grand Canyon]({{ site.baseurl }}/projects/current-projects/usgs-dynamism-and-persistence-of-eddy-sand-bars-in-grand-canyon)
+  - [DOE/ICRRR: Geomorphic Change Detection in the Grand Canyon]({{ site.baseurl }}/projects/past-projects/doe-icrrr-geomorphic-change-detection-in-the-grand-canyon)
+  - [USGS: Support in Geographic and Geomorphic Information Analysis for the Colorado River in Grand Canyon]({{ site.baseurl }}/projects/past-projects/usgs-support-in-geographic-and-geomorphic-informaiton-analysis-for-the-colorado-river-in-grand-canyon)
 
 - Influence of vegetation density on streambank hydraulics
 

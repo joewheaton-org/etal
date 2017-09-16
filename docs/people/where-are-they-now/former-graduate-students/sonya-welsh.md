@@ -19,7 +19,7 @@ title: Sonya Welsh
 
 ![welsh_sonya_250]({{ site.baseurl }}/assets/images/welsh_sonya_250.jpg)
 
-Sonya joined the lab in 2009 after completing a BS in Botany with a minor in Geology from Weber State University. She brings extensive field experience with her and is working on a project in [Bridge Creek, OR](http://etal.joewheaton.org/projects/current-projects/elr-bpa-isemp-bridge-creek-restoration-imw) using beaver as a restoration agent to reconnect incised streams to their floodplains and improve steelhead habitat.
+Sonya joined the lab in 2009 after completing a BS in Botany with a minor in Geology from Weber State University. She brings extensive field experience with her and is working on a project in [Bridge Creek, OR]({{ site.baseurl }}/projects/current-projects/elr-bpa-isemp-bridge-creek-restoration-imw) using beaver as a restoration agent to reconnect incised streams to their floodplains and improve steelhead habitat.
 Sonya successfully defended in May of 2012 and now runs the [Botany lab](http://www.weber.edu/Majors/botany.html) at Weber State University.
 
 #### Thesis:

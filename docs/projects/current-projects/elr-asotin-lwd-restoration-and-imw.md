@@ -67,7 +67,7 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/) 
-**Project Personnel from ET-AL:** [Kenny DeMeurichy](http://etal.joewheaton.org/people/where-are-they-now/former-researchers/kenny-demeurichy)
+**Project Personnel from ET-AL:** [Kenny DeMeurichy]({{ site.baseurl }}/people/where-are-they-now/former-researchers/kenny-demeurichy)
 **Project Collaborators:** Steve Bennett (ELR), Nick Bouwes (ELR), Reid Camp (ELR)
 **Funding Source:** Eco Logical Research
 **Project Start Date:  **October, 2009

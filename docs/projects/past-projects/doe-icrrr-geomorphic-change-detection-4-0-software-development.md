@@ -25,7 +25,7 @@ DoD 3.0 Matlab Code
 
 ### Related Links & Research
 
-- Based on the success of this project, we contracted with the USGS [Grand Canyon Monitoring Research Center](http://gcmrc.gov/) (see [this project](http://etal.joewheaton.org/projects/past-projects/usgs-support-in-geographic-and-geomorphic-informaiton-analysis-for-the-colorado-river-in-grand-canyon)) to create [GCD 5](http://gcd.joewheaton.org/).
+- Based on the success of this project, we contracted with the USGS [Grand Canyon Monitoring Research Center](http://gcmrc.gov/) (see [this project]({{ site.baseurl }}/projects/past-projects/usgs-support-in-geographic-and-geomorphic-informaiton-analysis-for-the-colorado-river-in-grand-canyon)) to create [GCD 5](http://gcd.joewheaton.org/).
 
 ------
 

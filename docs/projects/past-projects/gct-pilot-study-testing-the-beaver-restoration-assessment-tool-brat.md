@@ -84,7 +84,7 @@ This video from [EcoFlight](http://www.ecoflight.org/) on the project: EcoFlight
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/) 
-**Project Personnel from ET-AL:** [Wally Macfarlane](http://etal.joewheaton.org/people/researchers-technicians/Wally)
+**Project Personnel from ET-AL:** [Wally Macfarlane]({{ site.baseurl }}/people/researchers-technicians/Wally)
 **Project Collaborators:** Mary O'Brien (GCT)
 **Funding Source:** [Walton Family Foundation](http://www.waltonfamilyfoundation.org/) (GCT Subcontract)
 **Project Start Date: ** January, 2012

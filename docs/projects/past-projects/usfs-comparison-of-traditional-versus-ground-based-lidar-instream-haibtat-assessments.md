@@ -61,7 +61,7 @@ A few bullets to related links and research (both our own and external)
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/)
-**Project Personnel from ET-AL:** [Ryan Lokteff](http://etal.joewheaton.org/people/where-are-they-now/former-graduate-students/ryan-lokteff) & [Kenny DeMeurichy](http://etal.joewheaton.org/people/where-are-they-now/former-researchers/kenny-demeurichy)
+**Project Personnel from ET-AL:** [Ryan Lokteff]({{ site.baseurl }}/people/where-are-they-now/former-graduate-students/ryan-lokteff) & [Kenny DeMeurichy]({{ site.baseurl }}/people/where-are-they-now/former-researchers/kenny-demeurichy)
 **Project Collaborators:** Brett Roper (USFS)
 **Funding Source:** [US Forest Service](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CGsQFjAA&url=http%3A%2F%2Fwww.fs.fed.us%2F&ei=hIANUNihK8SirAHdprS7Cw&usg=AFQjCNHtNt1_5aIFBu3B4gR3i9zH66aH5w) Cost Share FS Agreement: 09-CS-13000018853911
 **Project Start Date: ** August, 2009

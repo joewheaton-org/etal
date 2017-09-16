@@ -39,7 +39,7 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 
 ### Related Links & Research
 
-- This work is continuing has now been fully funded by NSF: [NSF: Sensitivity of Braided River Morphodynamics to Sediment Supply](http://etal.joewheaton.org/projects/current-projects/braidedrivers)
+- This work is continuing has now been fully funded by NSF: [NSF: Sensitivity of Braided River Morphodynamics to Sediment Supply]({{ site.baseurl }}/projects/current-projects/braidedrivers)
 
 ------
 

@@ -33,10 +33,10 @@ Stephen
 
 ### Projects
 
-- [Asotin Creek Intensively Monitored Watershed Project, Asotin Creek, Washinton](http://etal.joewheaton.org/projects/current-projects/elr-asotin-lwd-restoration-and-imw)
+- [Asotin Creek Intensively Monitored Watershed Project, Asotin Creek, Washinton]({{ site.baseurl }}/projects/current-projects/elr-asotin-lwd-restoration-and-imw)
 - [Integrated Status and Effectiveness Monitoring Program, Columbia River Basin, Pacific Northwest](http://www.isemp.org/)
 - [Columbia Habitat Monitoring Protocol, Columbia River Basin, Pacific Northwest](https://www.champmonitoring.org/)
-- [Bridge Creek Intensively Monitored Watershed Project, John Day River, Oregon](http://etal.joewheaton.org/projects/current-projects/elr-bpa-isemp-bridge-creek-restoration-imw)
+- [Bridge Creek Intensively Monitored Watershed Project, John Day River, Oregon]({{ site.baseurl }}/projects/current-projects/elr-bpa-isemp-bridge-creek-restoration-imw)
 
 ------
 

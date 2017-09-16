@@ -112,7 +112,7 @@ Ability to Detect 'Obvious' Geomorphic Change:
 
 ### Related Links & Research
 
-- [ELR/BPA: ISEMP Lemhi Topographic and Aerial Photographic Methodological Intercomparison](http://etal.joewheaton.org/projects/past-projects/erl-bpa-isemp-lemhi-topographic-and-aerial-photographic-methodlogical-intercomparison)
+- [ELR/BPA: ISEMP Lemhi Topographic and Aerial Photographic Methodological Intercomparison]({{ site.baseurl }}/projects/past-projects/erl-bpa-isemp-lemhi-topographic-and-aerial-photographic-methodlogical-intercomparison)
 - [Integrated Status & Effectiveness Monitoring Program](http://www.nwfsc.noaa.gov/research/divisions/cbd/mathbio/isemp/index.cfm)
 - [Columbia Habitat Monitoring Program](http://champmonitoring.org/)
 - [CHAMP - Bridge Creek Sites](http://champmonitoring.org/Watershed/Details/6#studydesign%7E)
@@ -142,7 +142,7 @@ Ability to Detect 'Obvious' Geomorphic Change:
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/) 
-**Project Personnel from ET-AL:** [Sara Bangen](http://etal.joewheaton.org/people/where-are-they-now/former-graduate-students/sara-bangen) (MS Student)
+**Project Personnel from ET-AL:** [Sara Bangen]({{ site.baseurl }}/people/where-are-they-now/former-graduate-students/sara-bangen) (MS Student)
 **Project Collaborators:** Nick Bouwes (ELR), Chris Jordan (NOAA), Carol Volk (South Fork Research), Kelly Whitehead (South Fork Research), and Philip Bailey (North Arrow Research)
 **Funding Source:** [Bonneville Power Authority](http://www.bpa.gov/corporate/) - Sub-award to USU from Eco Logical Research, Inc.
 **Project Start Date:  **September 2011

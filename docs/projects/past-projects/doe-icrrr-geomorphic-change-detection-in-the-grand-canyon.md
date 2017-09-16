@@ -39,8 +39,8 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 
 ### Related Links & Research
 
-- [USGS: Dynamism and Persistence of Eddy Sand Bars in Grand Canyon](http://etal.joewheaton.org/projects/current-projects/usgs-dynamism-and-persistence-of-eddy-sand-bars-in-grand-canyon)
-- [USGS: Support in Geographic and Geomorphic Information Analysis for the Colorado River in Grand Canyon](http://etal.joewheaton.org/projects/past-projects/usgs-support-in-geographic-and-geomorphic-informaiton-analysis-for-the-colorado-river-in-grand-canyon)
+- [USGS: Dynamism and Persistence of Eddy Sand Bars in Grand Canyon]({{ site.baseurl }}/projects/current-projects/usgs-dynamism-and-persistence-of-eddy-sand-bars-in-grand-canyon)
+- [USGS: Support in Geographic and Geomorphic Information Analysis for the Colorado River in Grand Canyon]({{ site.baseurl }}/projects/past-projects/usgs-support-in-geographic-and-geomorphic-informaiton-analysis-for-the-colorado-river-in-grand-canyon)
 
 ------
 
@@ -61,7 +61,7 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/) 
-**Project Personnel from ET-AL:** [Nicole Czarnomski](http://etal.joewheaton.org/people/where-are-they-now/former-researchers/nicole-czarnomski)
+**Project Personnel from ET-AL:** [Nicole Czarnomski]({{ site.baseurl }}/people/where-are-they-now/former-researchers/nicole-czarnomski)
 **Project Collaborators:** Paul Grams, Jack Schmidt, Joe Hazel and Matt Kaplinski
 **Funding Source:** Department of Energy appropriation to ICRRR
 **Project Start Date: **July, 2011

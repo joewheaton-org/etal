@@ -108,8 +108,8 @@ NOTE: No rtkGPS surveys at 2 sites (Wright, Big Timber) due to dense vegetation 
 
 ### Related Links & Research
 
-- [ELR/BPA: CHaMP Grand Ronde Crew Variability Study](http://etal.joewheaton.org/projects/past-projects/elr-bpa-champ-grand-ronde-crew-variablity-study)
-- [Integrated Status & Effectiveness Monitoring Program](http://etal.joewheaton.org/projects/past-projects/elr-bpa-champ-grand-ronde-crew-variablity-study)
+- [ELR/BPA: CHaMP Grand Ronde Crew Variability Study]({{ site.baseurl }}/projects/past-projects/elr-bpa-champ-grand-ronde-crew-variablity-study)
+- [Integrated Status & Effectiveness Monitoring Program]({{ site.baseurl }}/projects/past-projects/elr-bpa-champ-grand-ronde-crew-variablity-study)
 - ISEMP - [Lemhi River Intensively Monitored Watershed](http://www.nwfsc.noaa.gov/research/divisions/cbd/mathbio/isemp/projects_lemhi.cfmp/projects_bridge_creek.cfm)
 - [Columbia Habitat Monitoring Program](http://champmonitoring.org/)
 
@@ -137,7 +137,7 @@ NOTE: No rtkGPS surveys at 2 sites (Wright, Big Timber) due to dense vegetation 
 #### Project Details
 
 - Project PI: Joe Wheaton
-- Project Personnel from ET-AL: [Sara Bangen](http://etal.joewheaton.org/people/where-are-they-now/former-graduate-students/sara-bangen) (MS Studentship) and [Kenny DeMeurichy](http://etal.joewheaton.org/people/where-are-they-now/former-researchers/kenny-demeurichy) 
+- Project Personnel from ET-AL: [Sara Bangen]({{ site.baseurl }}/people/where-are-they-now/former-graduate-students/sara-bangen) (MS Studentship) and [Kenny DeMeurichy]({{ site.baseurl }}/people/where-are-they-now/former-researchers/kenny-demeurichy) 
 - Project Collaborators: Nick Bouwes (ELR), Chris Jordan (NOAA), & Boyd Bouwes (Watershed Consultants) 
 - Funding Source: [Bonneville Power Authority](http://www.bpa.gov/corporate/) - Sub-award to USU from Eco Logical Research, Inc.
 - Project Start Date: June, 2010

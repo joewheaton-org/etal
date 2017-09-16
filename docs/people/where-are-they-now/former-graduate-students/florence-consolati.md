@@ -39,8 +39,8 @@ Florie is currently a graduate research assistant in Dr. Joe Wheaton's ET-AL Lab
 
 ### Projects
 
-- [NOAA: Linking Fisheries, beaver, geomorphic and physical habitat monitoring data to better understand the effectiveness of restoration efforts in Bridge Creek](http://etal.joewheaton.org/projects/current-projects/noaa-linking-fisheries-beaver-geomorphic-and-physical-habitat-monitoring-data-to-better-understand-the-effectiveness-of-restoration-efforts-in-bridge-creek)
-- [ELR/BPA: ISEMP Bridge Creek Restoration & IMW](http://etal.joewheaton.org/projects/current-projects/elr-bpa-isemp-bridge-creek-restoration-imw)
+- [NOAA: Linking Fisheries, beaver, geomorphic and physical habitat monitoring data to better understand the effectiveness of restoration efforts in Bridge Creek]({{ site.baseurl }}/projects/current-projects/noaa-linking-fisheries-beaver-geomorphic-and-physical-habitat-monitoring-data-to-better-understand-the-effectiveness-of-restoration-efforts-in-bridge-creek)
+- [ELR/BPA: ISEMP Bridge Creek Restoration & IMW]({{ site.baseurl }}/projects/current-projects/elr-bpa-isemp-bridge-creek-restoration-imw)
 - [Integrated Status and Effectiveness Monitoring Program](http://www.nwfsc.noaa.gov/research/divisions/cbd/mathbio/isemp/index.cfm)
 
 Former, California Department of Fish & Game Projects:

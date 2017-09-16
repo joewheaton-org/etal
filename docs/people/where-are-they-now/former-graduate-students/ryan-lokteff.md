@@ -48,8 +48,8 @@ Ryan is a master's student with Joe Wheaton.  He graduated from the University o
 
 ### Projects
 
-- [USFS: Temple Fork Watershed Fish & Beaver Ecology](http://etal.joewheaton.org/projects/current-projects/usfs-temple-fork-watershed-fish-beaver-ecology)
-- [USFS: Comparison of Traditional Versus Ground-Based LiDaR Instream Haibtat Assessments](http://etal.joewheaton.org/projects/past-projects/usfs-comparison-of-traditional-versus-ground-based-lidar-instream-haibtat-assessments)
+- [USFS: Temple Fork Watershed Fish & Beaver Ecology]({{ site.baseurl }}/projects/current-projects/usfs-temple-fork-watershed-fish-beaver-ecology)
+- [USFS: Comparison of Traditional Versus Ground-Based LiDaR Instream Haibtat Assessments]({{ site.baseurl }}/projects/past-projects/usfs-comparison-of-traditional-versus-ground-based-lidar-instream-haibtat-assessments)
 
 ------
 

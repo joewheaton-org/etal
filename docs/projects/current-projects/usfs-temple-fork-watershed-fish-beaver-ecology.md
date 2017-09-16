@@ -51,7 +51,7 @@ The above figure shows passage counts of each dam (S=Spawn Creek, T=Temple Fork)
 
 ### Related Links & Research
 
-- This project is a follow up to the [USFS: Comparison of Traditional Versus Ground-Based LiDaR Instream Haibtat Assessments](http://etal.joewheaton.org/projects/past-projects/usfs-comparison-of-traditional-versus-ground-based-lidar-instream-haibtat-assessments)
+- This project is a follow up to the [USFS: Comparison of Traditional Versus Ground-Based LiDaR Instream Haibtat Assessments]({{ site.baseurl }}/projects/past-projects/usfs-comparison-of-traditional-versus-ground-based-lidar-instream-haibtat-assessments)
 
 
 
@@ -74,7 +74,7 @@ The above figure shows passage counts of each dam (S=Spawn Creek, T=Temple Fork)
 ## Project Details
 
 **Project PI:**  Brett Roper
-**Project Personnel from ET-AL:** [Ryan Lokteff](http://etal.joewheaton.org/people/where-are-they-now/former-graduate-students/ryan-lokteff) (MS Student), [Joe Wheaton](http://etal.joewheaton.org/people/dr-joe-wheaton) (Co-PI & Lokteff MS Supervisor)
+**Project Personnel from ET-AL:** [Ryan Lokteff]({{ site.baseurl }}/people/where-are-they-now/former-graduate-students/ryan-lokteff) (MS Student), [Joe Wheaton]({{ site.baseurl }}/people/dr-joe-wheaton) (Co-PI & Lokteff MS Supervisor)
 **Project Collaborators:** Brett Roper, Phaedra Budy
 **Funding Source:** USFS provides Lokteff's salary
 **Project Start Date: **September, 2010

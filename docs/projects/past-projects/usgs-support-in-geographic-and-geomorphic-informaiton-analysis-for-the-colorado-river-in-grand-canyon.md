@@ -39,8 +39,8 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 
 ### Related Links & Research
 
-- [USGS: Dynamism and Persistence of Eddy Sand Bars in Grand Canyon](http://etal.joewheaton.org/projects/current-projects/usgs-dynamism-and-persistence-of-eddy-sand-bars-in-grand-canyon)
-- [DOE/ICRRR: Geomorphic Change Detection in the Grand Canyon](http://etal.joewheaton.org/projects/past-projects/doe-icrrr-geomorphic-change-detection-in-the-grand-canyon)
+- [USGS: Dynamism and Persistence of Eddy Sand Bars in Grand Canyon]({{ site.baseurl }}/projects/current-projects/usgs-dynamism-and-persistence-of-eddy-sand-bars-in-grand-canyon)
+- [DOE/ICRRR: Geomorphic Change Detection in the Grand Canyon]({{ site.baseurl }}/projects/past-projects/doe-icrrr-geomorphic-change-detection-in-the-grand-canyon)
 
 ------
 
@@ -66,7 +66,7 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 
 **Project PI:**  Jack Schmidt (as of August 2011:  [Joseph Wheaton](http://joewheaton.org/))
 **Project Co-PI:**  [Joseph Wheaton](http://joewheaton.org/) 
-**Project Personnel from ET-AL:** [Nicole Czarnomski](http://etal.joewheaton.org/people/where-are-they-now/former-researchers/nicole-czarnomski), Nina Killham (Schmidt Geomorphology Lab)
+**Project Personnel from ET-AL:** [Nicole Czarnomski]({{ site.baseurl }}/people/where-are-they-now/former-researchers/nicole-czarnomski), Nina Killham (Schmidt Geomorphology Lab)
 **Project Collaborators:** Paul Grams (GCMRC), Joe Hazel (NAU), Matt Kaplinksi (NAU)
 **Funding Source:** USGS [Grand Canyon Monitoring Research Center](http://www.gcmrc.gov/) (USGS 08WRAG0053 Mod 2, Req 10-93395-0049)
 **Project Start Date:** September, 2008

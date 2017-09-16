@@ -4,7 +4,7 @@ title: FHC Factsheets & Posters
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-The following are ET-AL and ELR Fact Sheets & Posters on selected [projects](http://etal.joewheaton.org/projects).
+The following are ET-AL and ELR Fact Sheets & Posters on selected [projects]({{ site.baseurl }}/projects).
 
 ## Factsheets
 

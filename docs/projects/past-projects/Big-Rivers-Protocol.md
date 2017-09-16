@@ -7,7 +7,7 @@ title: USGS: Big Rivers Monitoring Protocol Development
 **Project Type:  **Sponsored Research
 **Project Sponsor:  **USGS & National Park Service
 **Project Location:** Dinosaur National Monument
-**Status:**   Ongoing (through [NPS: Assessment of Indicator Sites & Quantifying Short-Term Effects of High Flows on Riparian Vegetation along the Yampa & Green Rivers](http://etal.joewheaton.org/projects/current-projects/nps-assessment-of-indicator-sites-quantifying-short-term-effects-of-high-flows-on-riparian-vegetation-along-the-yampa-green-rivers))
+**Status:**   Ongoing (through [NPS: Assessment of Indicator Sites & Quantifying Short-Term Effects of High Flows on Riparian Vegetation along the Yampa & Green Rivers]({{ site.baseurl }}/projects/current-projects/nps-assessment-of-indicator-sites-quantifying-short-term-effects-of-high-flows-on-riparian-vegetation-along-the-yampa-green-rivers))
 
 ## Project Overview
 
@@ -59,8 +59,8 @@ The Big River Monitoring protocol is now actively being implemented and tested b
 
 ### Related Links & Research
 
-- [NPS: Assessment of Indicator Sites & Quantifying Short-Term Effects of High Flows on Riparian Vegetation along the Yampa & Green Rivers](http://etal.joewheaton.org/projects/current-projects/nps-assessment-of-indicator-sites-quantifying-short-term-effects-of-high-flows-on-riparian-vegetation-along-the-yampa-green-rivers)
-- [USGS: Riparian Vegetation Analysis](http://etal.joewheaton.org/projects/past-projects/usgs-riparian-vegetation-analysis)
+- [NPS: Assessment of Indicator Sites & Quantifying Short-Term Effects of High Flows on Riparian Vegetation along the Yampa & Green Rivers]({{ site.baseurl }}/projects/current-projects/nps-assessment-of-indicator-sites-quantifying-short-term-effects-of-high-flows-on-riparian-vegetation-along-the-yampa-green-rivers)
+- [USGS: Riparian Vegetation Analysis]({{ site.baseurl }}/projects/past-projects/usgs-riparian-vegetation-analysis)
 - [Northern Colorado Plateau Network](http://science.nature.nps.gov/im/units/ncpn/)
 
 ------
@@ -97,7 +97,7 @@ The Big River Monitoring protocol is now actively being implemented and tested b
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/)
-**Project Personnel from ET-AL:** [Wally Macfarlane](http://etal.joewheaton.org/people/researchers-technicians/Wally)
+**Project Personnel from ET-AL:** [Wally Macfarlane]({{ site.baseurl }}/people/researchers-technicians/Wally)
 **Project Collaborators:** Micahel Scott (USGS), Dusty Perkins (NPS), Rebecca Manners (USU), Jack Schmidt (USU, USGS)
 **Funding Source:** USGS
 **Project Start Date: **September, 2009

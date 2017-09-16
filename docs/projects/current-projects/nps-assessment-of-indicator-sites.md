@@ -31,7 +31,7 @@ Channel narrowing has significant impact on resources of concerns for NPS units 
 
 ### Related Links & Research
 
-- [USGS: Big Rivers Monitoring Protocol Development](http://etal.joewheaton.org/projects/past-projects/Big-Rivers-Protocol)
+- [USGS: Big Rivers Monitoring Protocol Development]({{ site.baseurl }}/projects/past-projects/Big-Rivers-Protocol)
 
 ------
 
@@ -44,7 +44,7 @@ Channel narrowing has significant impact on resources of concerns for NPS units 
 ## Project Details
 
 **Project PI:**  [Joseph Wheaton](http://joewheaton.org/), Michael Scott (co-PI)
-**Project Personnel from ET-AL:** [Wally Macfarlane](http://etal.joewheaton.org/projects/current-projects/nps-assessment-of-indicator-sites-quantifying-short-term-effects-of-high-flows-on-riparian-vegetation-along-the-yampa-green-rivers)
+**Project Personnel from ET-AL:** [Wally Macfarlane]({{ site.baseurl }}/projects/current-projects/nps-assessment-of-indicator-sites-quantifying-short-term-effects-of-high-flows-on-riparian-vegetation-along-the-yampa-green-rivers)
 **Project Collaborators:**  Dustin Perkins (NPS), Tamara Nauman (NPS)
 **Funding Source:** National Park Service [Northern Colorado Plateau Monitoring Network](http://science.nature.nps.gov/im/units/ncpn/index.cfm)
 **Project Start Date: **Jan, 2012
