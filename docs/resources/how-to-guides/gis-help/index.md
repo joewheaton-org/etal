@@ -10,10 +10,10 @@ Like it or not, ESRI's ArcGIS family of products is the most common and widely u
 
 #### ArcGIS Help on ET-AL
 
-- [Creating DEMs, TINs and Terrains](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap/creating-dems-tins-and-terrains)
-- [How to divide polylines into a specified segment length](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap/how-to-divide-polylines-into-a-specified-segment-length)
-- [Simple Change Detection in ArcGIS](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap/simple-change-detection-in-arcgis)
-- [Working with Styles in ArcGIS](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap/working-with-styles-in-arcgis)
+- [Creating DEMs, TINs and Terrains]({{site.baseurl}}/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap/creating-dems-tins-and-terrains)
+- [How to divide polylines into a specified segment length]({{site.baseurl}}/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap/how-to-divide-polylines-into-a-specified-segment-length)
+- [Simple Change Detection in ArcGIS]({{site.baseurl}}/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap/simple-change-detection-in-arcgis)
+- [Working with Styles in ArcGIS]({{site.baseurl}}/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap/working-with-styles-in-arcgis)
 
 ### Online Help for ArcGIS
 
@@ -86,6 +86,6 @@ A number students have asked me about using GIS to do hazard mapping, land use m
 
 ### Where can I get GIS Data?
 
-- [GIS Data Sources](http://etal.joewheaton.org/resources/how-to-guides/gis-help/gis-data-sources)
+- [GIS Data Sources]({{site.baseurl}}/resources/how-to-guides/gis-help/gis-data-sources)
 
-Subpages (2): [ArcGIS Education Edition](http://etal.joewheaton.org/resources/how-to-guides/gis-help/arcgis-student-edition) [GIS Data Sources](http://etal.joewheaton.org/resources/how-to-guides/gis-help/gis-data-sources)
+Subpages (2): [ArcGIS Education Edition]({{site.baseurl}}/resources/how-to-guides/gis-help/arcgis-student-edition) [GIS Data Sources]({{site.baseurl}}/resources/how-to-guides/gis-help/gis-data-sources)

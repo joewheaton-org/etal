@@ -32,7 +32,7 @@ ORCiD #:  0000-0001-6301-6155
 
 ### Bio
 
-**Natalie Kramer **is a fluvial geomorphologist and lifelong river runner.  She joined the [ET-AL](http://etal.joewheaton.org/wheaton-et-al) team in January 2017 as a post-doctoral scholar after completing her PhD at Colorado State University with [Ellen Wohl](https://sites.warnercnr.colostate.edu/fluvial-geomorphology/people/34-2/) in 2016.  Natalie is a [SoGES Global Sustainability Leadership Fellow](http://sustainability.colostate.edu/slf-program) (2013) who values sharing her research with the general public.  She particularly enjoys telling compelling big picture stories about how riverine landscapes evolve and change through time. She has worked on a variety of projects resulting in numerous academic publications in respected journals.  Prior to working on data analysis and synthesis for [CHaMP](https://www.champmonitoring.org/), most of her work was focused on the transport of instream wood through drainage networks and the legacy impacts of wood deposits on shorelines.  Kayaking has given her a broad intuitive understanding of rivers that has been hugely influential to her success as a physical scientist.  Fun fact: since infancy, Natalie has never gone a full year without floating down a river somewhere.
+**Natalie Kramer **is a fluvial geomorphologist and lifelong river runner.  She joined the [ET-AL]({{site.baseurl}} team in January 2017 as a post-doctoral scholar after completing her PhD at Colorado State University with [Ellen Wohl](https://sites.warnercnr.colostate.edu/fluvial-geomorphology/people/34-2/) in 2016.  Natalie is a [SoGES Global Sustainability Leadership Fellow](http://sustainability.colostate.edu/slf-program) (2013) who values sharing her research with the general public.  She particularly enjoys telling compelling big picture stories about how riverine landscapes evolve and change through time. She has worked on a variety of projects resulting in numerous academic publications in respected journals.  Prior to working on data analysis and synthesis for [CHaMP](https://www.champmonitoring.org/), most of her work was focused on the transport of instream wood through drainage networks and the legacy impacts of wood deposits on shorelines.  Kayaking has given her a broad intuitive understanding of rivers that has been hugely influential to her success as a physical scientist.  Fun fact: since infancy, Natalie has never gone a full year without floating down a river somewhere.
 
 ------
 
@@ -56,7 +56,7 @@ ORCiD #:  0000-0001-6301-6155
 - [Geologist tracks driftwood down the Mackenzie basin](http://norj.ca/2013/04/geologist-tracks-driftwood-down-mackenzie-basin/). Northern Journal (April 1, 2013).
 - [NWT driftwood study makes waves in geology world](http://norj.ca/2013/10/nwt-driftwood-study-makes-waves-in-geology-world/). Northern Journal (Oct 7, 2013).
 - [Geophysics reveals secrets of the beaver](http://earth-pages.co.uk/2012/02/04/geophysics-reveals-secrets-of-the-beaver/) Earth Pages- Research News (Feb 4, 2012).
-- [How beavers helped to build America ](http://www.foxnews.com/scitech/2011/12/29/how-beavers-helped-to-build-america/)Science and Technology, Fox News (Dec 29, 2011). 
+- [How beavers helped to build America ](http://www.foxnews.com/scitech/2011/12/29/how-beavers-helped-to-build-america/)Science and Technology, Fox News (Dec 29, 2011).
 
 ------
 

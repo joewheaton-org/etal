@@ -41,7 +41,7 @@ Martha Jensen has a BS degree from Utah State University where her course work f
 
 - [Columbia Habitat Monitoring Program (CHaMP)](https://www.champmonitoring.org/)
 - [Beaver Restoration Assessment Tool (BRAT)](http://brat.joewheaton.org/)
-- [FHC Fact Sheets and Posters](http://etal.joewheaton.org/fhc-factsheets-posters)
+- [FHC Fact Sheets and Posters]({{site.baseurl}}/fhc-factsheets-posters)
 - [Colorado Plateau Ecoregion Riparian Mapping ](http://figshare.com/articles/Comprehensive_Riparian_Mapping_of_the_Colorado_Plateau_Ecoregion/1213152)
 
 ------

@@ -105,4 +105,4 @@ Although the [Ordinance Survey](http://www.ordnancesurvey.co.uk/oswebsite/) is o
 
 The NERC Earth Observation Data Centre (NEODC) is a Designated Data Centre of the Natural Environment Research Council (NERC) and as such it is tasked with the acquisition, archiving and provision of access to remotely sensed data of the surface of the Earth acquired by satellite and airborne sensors.
 
-Subpages (1): [High Resolution Imagery for Utah State](http://etal.joewheaton.org/resources/how-to-guides/gis-help/gis-data-sources/high-resolution-imagery-for-utah-state)
+Subpages (1): [High Resolution Imagery for Utah State]({{site.baseurl}}/resources/how-to-guides/gis-help/gis-data-sources/high-resolution-imagery-for-utah-state)

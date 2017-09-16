@@ -10,5 +10,5 @@ Attached below is a simple and generic script for batch unzipping compressed fol
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y-rvqQ78vp8" frameborder="0" allowfullscreen></iframe>
 
-unZip.R (2k)   Sara Bangen, Jan 26, 2015, 5:08 PM   [v.1](http://etal.joewheaton.org/system/app/pages/admin/revisions?wuid=wuid:gx:79d690e5dc67a670)   [download](http://etal.joewheaton.org/resources/how-to-guides/basic-computing-tips-tricks/batch-unzip-script/unZip.R?attredirects=0&d=1)
+unZip.R (2k)   Sara Bangen, Jan 26, 2015, 5:08 PM   [v.1](http://etal.joewheaton.org/system/app/pages/admin/revisions?wuid=wuid:gx:79d690e5dc67a670)   [download]({{site.baseurl}}/resources/how-to-guides/basic-computing-tips-tricks/batch-unzip-script/unZip.R?attredirects=0&d=1)
 

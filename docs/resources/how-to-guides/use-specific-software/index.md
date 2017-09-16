@@ -6,12 +6,12 @@ title: How to Use Specific Software
 
 #### By Software
 
-- [Adobe Illustrator](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/adobe-illustrator)
-- [ArcGIS Desktop - ArcMap](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap)
-- [EndNote](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/endnote)
-- [FastStone Capture](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/faststone-capture)
-- [Picasa](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/picasa)
-- [Word](http://etal.joewheaton.org/resources/how-to-guides/use-specific-software/word)
+- [Adobe Illustrator]({{site.baseurl}}/resources/how-to-guides/use-specific-software/adobe-illustrator)
+- [ArcGIS Desktop - ArcMap]({{site.baseurl}}/resources/how-to-guides/use-specific-software/arcgis-desktop---arcmap)
+- [EndNote]({{site.baseurl}}/resources/how-to-guides/use-specific-software/endnote)
+- [FastStone Capture]({{site.baseurl}}/resources/how-to-guides/use-specific-software/faststone-capture)
+- [Picasa]({{site.baseurl}}/resources/how-to-guides/use-specific-software/picasa)
+- [Word]({{site.baseurl}}/resources/how-to-guides/use-specific-software/word)
 
 We also maintain software help pages elsewhere in the joewheaton.org domain:
 
