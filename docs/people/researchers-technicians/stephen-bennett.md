@@ -4,7 +4,7 @@ title: Stephen Bennett
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/people/index) -> [Researchers & Technicians]({{ site.baseurl }}/docs/people/researchers-technicians/index)
+[People]({{site.baseurl}}/people/index) -> [Researchers & Technicians]({{ site.baseurl }}/people/researchers-technicians/index)
 
 Job Title: **Researcher Lead**
 Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
@@ -19,7 +19,7 @@ Secondary Affiliation: [Ecogeomorphology & Topographic Analysis Lab]({{ site.bas
 
 ### Research
 
-Stephen 
+Stephen
 
 ------
 
@@ -27,7 +27,7 @@ Stephen
 
 **Stephen** has worked in Canada and the USA as a consulting fish and wildlife biologist since 1990. After completing his PhD at Utah State in 2007 he began working with Eco Logical Research, Inc. as the project manager of the Asotin Creek Intensively Monitored Watershed Project in southeast Washington. Stephen has also worked to aid in the development and assessment of regional salmonid monitoring programs as a Post Doctoral researcher with Dr. Brett Roper of the USDA Forest Service, Fish and Aquatic Ecology Unit. Stephen’s Post Doctoral research focused on writing a National Forest Fish Inventory and Monitoring Manual for the Forest Service involving a comprehensive review of the statistical design and analyses of fish abundance data. Stephen’s dissertation focused on invasion ecology and issues related to hybridization between native cutthroat trout and introduced rainbow trout. Prior to starting his PhD Stephen was a biological consultant for 12 years working on a variety of fisheries and wildlife issues including fish inventory, fish passage assessment, watershed analysis, habitat monitoring, impact assessments, and salmonid enhancement projects. In May 2013, Stephen was hired as a Researcher Lead for the Fluvial Habitats group at Utah State University which is a collaborative effort between the labs of Dr. Joe Wheaton and Dr. Nicolaas Bouwes.
 
- 
+
 
 ------
 
@@ -51,7 +51,7 @@ Stephen
 Conference Papers, Presentations & Posters
 
 - **Bennett**, S.N., P. Corbett, and T. Gaines. 2004. Status of westslope cutthroat trout and the potential extent of hybridization with non-native rainbow trout in the Upper Kootenay River, BC. Paper presented at the American Fisheries Society Western Regional meeting, Salt Lake City, UT. Feb 29-March 4, 2004.
-- Poster: Sullivan, M., Detmar, T., **Bennett**, S., Bouwes, N. and R. Camp. 2011. Developing the Asotin Creek Intensively Monitored Watershed Project: Answering the Question "Does stream restoration increase freshwater production of steelhead?" Presented at American Fisheries Society, Western Division, Seattle, WA. 
+- Poster: Sullivan, M., Detmar, T., **Bennett**, S., Bouwes, N. and R. Camp. 2011. Developing the Asotin Creek Intensively Monitored Watershed Project: Answering the Question "Does stream restoration increase freshwater production of steelhead?" Presented at American Fisheries Society, Western Division, Seattle, WA.
 
 Reports
 
@@ -61,10 +61,9 @@ Reports
 - **Bennett**, S.N. and Roper, B.B. 2008. Fish inventory and monitoring technical guide for wadeable streams on National Forests. Gen. Tech. Rep. U.S. Department of Agriculture, Forest Service. DRAFT.
 - **Bennett**, S.N. 2007. [Assessing the extent of hybridization between westslope cutthroat trout and introduced rainbow trout in the Upper Kootenay River, British Columbia. Dissertation](http://www.cnr.usu.edu/quinney/htm/collections/theses-dissertations/publication=10641), Watershed Sciences Department, Utah State University, Logan, Utah.
 - **Bennett**, S. N. 2002. [Westslope Cutthroat Trout: Identified Wildlife Species Accounts](http://www.env.gov.bc.ca/wld/frpa/iwms/documents/Fish/f_westslopecutthroattrout.pdf). Prepared for Identified Wildlife Management Strategy, Water, Land, and Air Protection, Victoria, BC.
-- Robertson, I., K. McIntosh, S.N. **Bennett**, S. Kesting, V. Palermo, P. Warburton, and P. Kneen. 2001. An examination of species at risk in areas with BC Hydro facilities. Prepared for BC Hydro, Vancouver, BC. 
+- Robertson, I., K. McIntosh, S.N. **Bennett**, S. Kesting, V. Palermo, P. Warburton, and P. Kneen. 2001. An examination of species at risk in areas with BC Hydro facilities. Prepared for BC Hydro, Vancouver, BC.
 - **Bennett**, S. N., P. Sherrington, P. Johnstone, and B. Harrison. 2000. [Habitat use and distribution of listed neotropical migrant songbirds of northeastern British Columbia.](http://www.env.gov.bc.ca/wld/documents/bl07bennett1.pdf) In L.M. Darling (ed) Proceedings of a conference on the biology and management of species and habitats at risk BC Environment, Lands, and Parks, Victoria, BC.
 - **Bennett**, S.N. 1999. Fisheries and Wildlife Habitat Assessment of the Trans Canada Highway Upgrade West of Revelstoke. Prepared for Ministry of Transportation and Highways, Victoria, BC.
-- **Bennett**, S. and P. Corbett. 1998. Tree Farm License 14 Stream Crossing and Ford Assessments. Prepared for Crestbrook Forest Industries. Project #: 97-WRP-FRBC-15 
+- **Bennett**, S. and P. Corbett. 1998. Tree Farm License 14 Stream Crossing and Ford Assessments. Prepared for Crestbrook Forest Industries. Project #: 97-WRP-FRBC-15
 
 [![Deathvalley08%20126]({{ site.baseurl }}/assets/images/Deathvalley08%20126.jpg)]({{ site.baseurl }}/assets/images/hr/Deathvalley08%20126.jpg)
-

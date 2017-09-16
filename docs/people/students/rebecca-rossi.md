@@ -4,7 +4,7 @@ title: Rebecca Rossi
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/people/index) -> [Graduate Students]({{ site.baseurl }}/docs/people/students/index)
+[People]({{site.baseurl}}/people/index) -> [Graduate Students]({{ site.baseurl }}/people/students/index)
 
 Job Title: **Graduate Research Assistant**
 Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)

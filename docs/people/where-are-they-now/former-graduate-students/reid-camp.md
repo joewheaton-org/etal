@@ -4,14 +4,14 @@ title: Reid Camp
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index) > [Former Graduate Students]({{ site.baseurl }}/docs/people/where-are-they-now/former-graduate-students)
+[People]({{site.baseurl}}/people/index) -> [Where are they now?]({{ site.baseurl }}/people/where-are-they now/index) > [Former Graduate Students]({{ site.baseurl }}/people/where-are-they-now/former-graduate-students)
 
 **Job Title:** Graduate Research Assistant
 **Current Affiliation**: Eco Logical Research, Inc.
 **Primary Affiliation:** [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)
 **Secondary Affiliation**: [Ecogeomorphology & Topographic Analysis Lab]({{ site.baseurl }})
 **Degree**: M.S. - Watershed Science 
-**Faculty Advisor**: [Joe Wheaton]({{ site.baseurl }}/docs/people/dr-joe-wheaton)
+**Faculty Advisor**: [Joe Wheaton]({{ site.baseurl }}/people/dr-joe-wheaton)
 **Committee Members:** Philip Bailey and Brett Roper
 **Year Started**: 2013 (Jan)
 **Year Defended**: 2014 (Dec)

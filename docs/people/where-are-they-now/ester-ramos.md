@@ -4,7 +4,7 @@ title: Ester Ramos
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[People]({{site.baseurl}}/people/index) -> [Where are they now?]({{ site.baseurl }}/docs/people/where-are-they now/index)
+[People]({{site.baseurl}}/people/index) -> [Where are they now?]({{ site.baseurl }}/people/where-are-they now/index)
 
 Job Title: **PhD modeling morphosedimentary dynamics** 
 Primary Affiliation: [Department of Environment and Soil Sciences of the Universitat de Lleida (UdL)](http://www.fluvialdynamics.com/)
