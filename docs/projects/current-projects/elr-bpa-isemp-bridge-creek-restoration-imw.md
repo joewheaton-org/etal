@@ -43,7 +43,7 @@ A few bullets about the preliminary conclusions (if any) or future work. This sh
 
 ### Related Links & Research
 
-- [NOAA: Linking Fisheries, beaver, geomorphic and physical habitat monitoring data to better understand the effectiveness of restoration efforts in Bridge Creek]({{ site.baseurl }}/projects/current-projects/noaa-linking-fisheries-beaver-geomorphic-and-physical-habitat-monitoring-data-to-better-understand-the-effectiveness-of-restoration-efforts-in-bridge-creek)
+- [NOAA: Linking Fisheries, beaver, geomorphic and physical habitat monitoring data to better understand the effectiveness of restoration efforts in Bridge Creek]({{ site.baseurl }}/projects/current-projects/noaa-linking-fisheries-beaver-geomorphic)
 - [Integrated Status & Effectiveness Monitoring Program](http://www.nwfsc.noaa.gov/research/divisions/cbd/mathbio/isemp/index.cfm)
 - ISEMP - [Bridge Creek Intensively Monitored Watershed](http://www.nwfsc.noaa.gov/research/divisions/cbd/mathbio/isemp/projects_bridge_creek.cfm)
 - [Bridge Creek IMW Collaborators Pages](https://sites.google.com/a/ecologicalresearch.net/bridgeimw/home)
