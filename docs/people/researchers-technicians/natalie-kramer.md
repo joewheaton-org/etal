@@ -64,7 +64,7 @@ ORCiD #:  0000-0001-6301-6155
 
 #### Peer Reviewed Publications
 
-- **Kramer, N., **Wohl, E., Hess-Homeier, B., Leisz, S., in press,  The pulse of driftwood export from a very large forested river basin over multiple timescales, Slave River, Canada, *Water Resources Research*.
+- **Kramer, N.,** Wohl, E., Hess-Homeier, B., Leisz, S., in press,  The pulse of driftwood export from a very large forested river basin over multiple timescales, Slave River, Canada, *Water Resources Research*.
 - **Kramer, N.**,Wohl,  E.E. , and Harry,  D.L., 2012,  [Using ground penetrating radar to 'unearth' buried beaver dams](http://geology.gsapubs.org/content/40/1/43.full), Geology, v.40, p.43-46, doi:10.1130/G32682.1.
 - **Kramer, N.** and Wohl, E.E., 2014, [Estimating fluvial wood discharge using time-lapse photography with varying sampling intervals](http://onlinelibrary.wiley.com/doi/10.1002/esp.3540/abstract), Earth Surface Processes and Landforms, v.39(6), p. 711-852, doi: 10.1002/esp.3540.
 - **Kramer, N.** and Wohl, E.E .2015,[Driftcretions: The legacy impact of driftwood on shoreline morphology](http://onlinelibrary.wiley.com/doi/10.1002/2015GL064441/full). Journal of Geophysical Research, v.42(14), p. 5855–5864. doi: 10.1002/2015GL064441.
