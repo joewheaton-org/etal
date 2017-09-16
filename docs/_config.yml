@@ -1,5 +1,15 @@
 theme: jekyll-theme-modernist
 
+url: https://joewheaton-org.github.io
+
+baseurl: "/etal"
+
+port: 4001
+
+markdown: kramdown
+highlighter: rouge
+
+
 settings:
   sideMenu:
     homeItem: true
