@@ -1,5 +1,8 @@
 theme: jekyll-theme-modernist
 
+title: etal
+Ecogeomorphology and Topographic Analysis Laboratory
+
 url: https://joewheaton-org.github.io
 baseurl: "/etal"
 port: 4001
