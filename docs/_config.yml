@@ -1,9 +1,7 @@
 theme: jekyll-theme-modernist
 
 url: https://joewheaton-org.github.io
-
 baseurl: "/etal"
-
 port: 4001
 
 markdown: kramdown
@@ -16,11 +14,20 @@ defaults:
     values:
       layout: "default"
 
+exclude:
+  - src
+  - LICENSE
+  - README.md
+  - _config.yml
+
+layouts_dir:  src/_layouts
+includes_dir: src/_includes
+
 settings:
   autoPageContents:
     active: true
     onHome: false
-    
+
   sideMenu:
     homeItem: true
     startexpanded: true
