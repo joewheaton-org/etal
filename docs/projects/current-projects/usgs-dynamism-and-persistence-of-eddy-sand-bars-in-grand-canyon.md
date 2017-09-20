@@ -1,8 +1,6 @@
 ---
-title: USGS: Dynamism and Persistence of Eddy Sand Bars in Grand Canyon
+title: USGS - Dynamism and Persistence of Eddy Sand Bars in Grand Canyon
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![USGS_logo]({{ site.baseurl }}/assets/images/USGS_logo.png)
 

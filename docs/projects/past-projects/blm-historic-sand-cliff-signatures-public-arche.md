@@ -1,8 +1,6 @@
 ---
-title: USGS: Dynamism and Persistence of Eddy Sand Bars in Grand Canyon
+title: USGS - Dynamism and Persistence of Eddy Sand Bars in Grand Canyon
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 **Project Type: ** Sponsored Research, Pilot Project, Unfunded Research, Contract
 **Project Sponsor: ** [Bureau of Land Management](http://www.blm.gov/)

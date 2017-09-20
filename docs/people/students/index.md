@@ -3,8 +3,6 @@ title: Graduate Students
 weight: 3
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
-
 ## Current Graduate Students:
 
 - [Connor Penrod]({{ site.baseurl }}/people/students/connor-penrod)

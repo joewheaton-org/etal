@@ -1,8 +1,6 @@
 ---
-title: USGS: Big Rivers Monitoring Protocol Development
+title: USGS - Big Rivers Monitoring Protocol Development
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 **Project Type:** Sponsored Research
 **Project Sponsor:** USGS & National Park Service

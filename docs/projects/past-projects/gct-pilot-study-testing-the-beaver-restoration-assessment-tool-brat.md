@@ -1,8 +1,6 @@
 ---
-title: ELR/BPA: GCT: Pilot Study: Testing the Beaver Restoration Assessment Tool (BRAT)
+title: ELR/BPA - GCT - Pilot Study - Testing the Beaver Restoration Assessment Tool (BRAT)
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![gct-logo2]({{ site.baseurl }}/assets/images/gct-logo2.gif)
 

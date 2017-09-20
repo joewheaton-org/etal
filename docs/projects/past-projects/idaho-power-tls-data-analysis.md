@@ -1,8 +1,6 @@
 ---
-title: Idaho Power: TLS Data Analysis
+title: Idaho Power - TLS Data Analysis
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![IdahoPower]({{ site.baseurl }}/assets/images/IdahoPower.jpg)
 

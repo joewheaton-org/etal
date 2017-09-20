@@ -1,8 +1,6 @@
 ---
-title: USFS: Comparison of Traditional Versus Ground-Based LiDaR Instream Haibtat Assessments
+title: USFS - Comparison of Traditional Versus Ground-Based LiDaR Instream Haibtat Assessments
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![USFS_Logo_svg]({{ site.baseurl }}/assets/images/USFS_Logo_svg.gif)
 

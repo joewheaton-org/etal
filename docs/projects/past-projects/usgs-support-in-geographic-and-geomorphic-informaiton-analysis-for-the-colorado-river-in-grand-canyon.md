@@ -1,8 +1,6 @@
 ---
-title: USGS: Support in Geographic and Geomorphic Information Analysis for the Colorado River in Grand Canyon
+title: USGS - Support in Geographic and Geomorphic Information Analysis for the Colorado River in Grand Canyon
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![USGS_logo]({{ site.baseurl }}/assets/images/USGS_logo.png)
 

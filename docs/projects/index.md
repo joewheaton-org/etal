@@ -2,8 +2,6 @@
 title: FHC Projects
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
-
 Sorry! The project pages are brand new and in the process of being populated so you must be logged in to access all of the projects currently.
 
 This is a partial listing of projects that Joe Wheaton and the ET-AL have undertaken since 2009:

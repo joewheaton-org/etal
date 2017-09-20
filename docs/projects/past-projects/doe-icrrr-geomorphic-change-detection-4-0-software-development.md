@@ -1,8 +1,6 @@
 ---
-title: DOE/ICRRR: Geomorphic Change Detection 4.0 Software Developmentool
+title: DOE/ICRRR - Geomorphic Change Detection 4.0 Software Developmentool
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![ICRRR_Logo_100]({{ site.baseurl }}/assets/images/ICRRR_Logo_100.gif)
 

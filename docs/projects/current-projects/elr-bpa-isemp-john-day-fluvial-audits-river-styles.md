@@ -1,8 +1,6 @@
 ---
-title: ELR/BPA: ISEMP John Day Fluvial Audits & River Styles
+title: ELR/BPA - ISEMP John Day Fluvial Audits & River Styles
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![ELRLogo]({{ site.baseurl }}/assets/images/ELRLogo.png)
 

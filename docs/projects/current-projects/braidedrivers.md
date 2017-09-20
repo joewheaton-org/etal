@@ -1,8 +1,6 @@
 ---
-title: NSF: Sensitivity of Braided River Morphodynamics to Sediment Supply
+title: NSF - Sensitivity of Braided River Morphodynamics to Sediment Supply
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![nsf1]({{ site.baseurl }}/assets/images/nsf1.gif)
 

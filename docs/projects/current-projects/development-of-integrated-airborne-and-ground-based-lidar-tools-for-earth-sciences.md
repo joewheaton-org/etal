@@ -1,8 +1,6 @@
 ---
-title: NSF: zCloudTools: Making Point Clouds Useful for Earth Science
+title: NSF - zCloudTools - Making Point Clouds Useful for Earth Science
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![nsf1]({{ site.baseurl }}/assets/images/nsf1.gif)
 

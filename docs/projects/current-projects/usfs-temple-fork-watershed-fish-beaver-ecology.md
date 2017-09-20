@@ -1,8 +1,6 @@
 ---
-title: USFS: Temple Fork Watershed Fish & Beaver Ecology
+title: USFS - Temple Fork Watershed Fish & Beaver Ecology
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![USFS_Logo_svg]({{ site.baseurl }}/assets/images/USFS_Logo_svg.gif)
 

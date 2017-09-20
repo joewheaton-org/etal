@@ -1,8 +1,6 @@
 ---
-title: ELR/BPA: ISEMP Lemhi Topographic Survey Technique Intercomparison
+title: ELR/BPA - ISEMP Lemhi Topographic Survey Technique Intercomparison
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![ELRLogo]({{ site.baseurl }}/assets/images/ELRLogo.png)
 

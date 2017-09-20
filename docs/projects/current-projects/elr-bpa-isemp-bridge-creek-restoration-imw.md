@@ -1,5 +1,5 @@
 ---
-title: ELR/BPA: ISEMP Bridge Creek Restoration & IMW
+title: ELR/BPA - ISEMP Bridge Creek Restoration & IMW
 ---
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})

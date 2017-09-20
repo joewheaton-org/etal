@@ -1,8 +1,6 @@
 ---
-title: NOAA: Linking Fisheries, beaver, geomorphic and physical habitat monitoring data to better understand the effectiveness of restoration efforts in Bridge Creek
+title: NOAA - Linking Fisheries, beaver, geomorphic and physical habitat monitoring data to better understand the effectiveness of restoration efforts in Bridge Creek
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 **Project Type:** Sponsored Research
 **Project Sponsor:** [NOAA Northwest Fisheries Science Center](http://www.nwfsc.noaa.gov/)

@@ -1,8 +1,6 @@
 ---
-title: USGS: Riparian Vegetation Analysis
+title - USGS: Riparian Vegetation Analysis
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![USGS_logo]({{ site.baseurl }}/assets/images/USGS_logo.png)
 

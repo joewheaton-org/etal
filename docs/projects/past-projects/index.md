@@ -1,5 +1,5 @@
 ---
-title: USGS: Past Projects
+title: USGS - Past Projects
 ---
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})

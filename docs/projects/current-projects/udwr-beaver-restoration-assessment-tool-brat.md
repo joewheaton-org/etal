@@ -1,8 +1,6 @@
 ---
-title: UDWR: Beaver Restoration Assessment Tool (BRAT)
+title: UDWR - Beaver Restoration Assessment Tool (BRAT)
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ## Project Overview
 

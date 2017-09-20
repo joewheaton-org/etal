@@ -1,8 +1,6 @@
 ---
-title: ELR/FHC/CTWS: Pine Creek Beaver Assisted Restoration Pilot Project
+title: ELR/FHC/CTWS - Pine Creek Beaver Assisted Restoration Pilot Project
 ---
-
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ![ELR_Lab_Black_wTransparent_100]({{ site.baseurl }}/assets/images/ELR_Lab_Black_wTransparent_100.png)
 
