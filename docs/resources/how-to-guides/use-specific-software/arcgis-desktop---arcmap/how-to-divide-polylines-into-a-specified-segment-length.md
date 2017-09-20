@@ -2,7 +2,7 @@
 title: How to divide polylines into a specified segment length
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 ### Case study: Escalante Watershed NHD perennial streams divided into 100 m segments
 

@@ -2,7 +2,7 @@
 title: Current Projects
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### Current Projects
 

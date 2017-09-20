@@ -2,7 +2,7 @@
 title: GIS Data Sources
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 ## Web Viewers
 

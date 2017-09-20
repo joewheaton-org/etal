@@ -2,7 +2,7 @@
 title: Creating DEMs, TINs and Terrains
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 Below are some links to constructing digital elevation models and surfaces in ArcGIS from raw topographic data (x,y,z).
 

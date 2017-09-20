@@ -3,7 +3,7 @@ title: People
 weight: 3
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 Our lab is lucky to have an energetic group of talented graduate student researchers, professional researchers, undergraduate research assistants, seasonal field technicians and some volunteers.  The current ET-AL staff are listed below.
 

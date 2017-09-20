@@ -2,7 +2,7 @@
 title: NPS - Assessment of Indicator Sites & Quantifying Short-Term Effects of High Flows on Riparian Vegetation along the Yampa & Green Rivers
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 ![NationalParkService-Logo.svg]({{ site.baseurl }}/assets/images/NationalParkService-Logo.svg.png)
 

@@ -2,7 +2,7 @@
 title: Geotagging images & making albums
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 We work with geotagged images a lot in [Picasa](https://picasaweb.google.com/). This gives instant spatial context to where our photos were taken, which makes them much more valuable then as just oblique images alone. We can a) geotag images manually (see [here](http://picasa.google.com/support/bin/answer.py?answer=161869) for how), or b) geotag images automatically with a GPS camera (e.g. our [Sony Camera](http://sites.google.com/a/joewheaton.org/et-al-private/resources/student-employee-reference-sheet/available-equipment/sony-dsc-hx5v-camera-gps)). When we geotag them automatically, it often works great, but sometimes does not. This first video shows us how to download images that have an incorrect geotag, and how to update those in Picassa. It also highlights some pictures that were correctly geotagged, and some that we have to geotag manually. 
 

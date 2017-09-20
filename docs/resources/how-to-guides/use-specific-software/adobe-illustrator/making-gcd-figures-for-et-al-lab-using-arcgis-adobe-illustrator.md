@@ -2,7 +2,7 @@
 title: Making GCD Figures for ET-AL Lab Using ArcGIS & Adobe Illustrator
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### Tutorial... Warning 22 minutes
 

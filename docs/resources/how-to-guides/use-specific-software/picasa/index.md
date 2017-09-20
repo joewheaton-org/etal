@@ -2,7 +2,7 @@
 title: Picasa
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### Picasa Topics
 

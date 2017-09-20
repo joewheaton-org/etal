@@ -2,7 +2,7 @@
 title: Adobe Illustrator
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### Topics
 

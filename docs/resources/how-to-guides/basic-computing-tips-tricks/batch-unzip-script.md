@@ -2,7 +2,7 @@
 title: Batch Unzip Script
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 In the lab we frequently deal with large datasets.  Whether getting data from an ftp or a collaborator, this data may come in a compressed (*.zip) folder.  If the data is in one or two *.zip folders then manually unzipping is the logical choice.  But when dealing with 10's to 100's to 1000's of compressed folders it's quite nice to have an automated approach.
 

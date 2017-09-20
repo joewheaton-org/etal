@@ -2,7 +2,7 @@
 title: Surveying & Geomatics
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 Here are some basic resources on how to survey.
 

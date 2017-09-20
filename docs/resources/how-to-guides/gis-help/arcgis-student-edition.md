@@ -2,7 +2,7 @@
 title: ArcGIS Education Edition
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 If you are a student in one of my classes using GIS, I can provide you with a One-Year Student License of ArcInfo and all the ArcGIS Desktop extensions. Only students, faculty and staff of Utah State University may use the software for teaching and research purposes only. To get one:
 

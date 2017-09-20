@@ -2,7 +2,7 @@
 title: Get a QR Code
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 If you want to create a QR (Quick Response) code (e.g. for a link to a URL) there are a wide array of free and fee-based services available.  The QR-Code at right is a link to our http://gcd.joewheaton.org website. Anyone with a smart-phone can download free QR-Code reader apps and this will link them directly to the site of interest.
 

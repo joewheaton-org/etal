@@ -2,7 +2,7 @@
 title: Special Characters
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 There are many characters and symbols you can use while typing that can be accessed by holding the `ALT `key down while typping a one to four digit numeric sequence. For example, if I want to type the Greek letter sigma, I simply hold down the `ALT `key while typing `229 `on a numeric key pad and I will get a σ. The table below is from Ted Montgomery's tutorials, and he includes detailed instructions for how to use the ALT characters (click on table). Although many word processors have character symbols which can be inserted, or font libraries that include many of these symbols, the nice thing about ALT characters is they can typically be accessed from a broader range of applications. 
 

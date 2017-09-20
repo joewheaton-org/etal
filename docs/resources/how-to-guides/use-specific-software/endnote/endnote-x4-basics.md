@@ -2,7 +2,7 @@
 title: EndNote X4 Basics
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 ### Creating a Library From Scratch
 

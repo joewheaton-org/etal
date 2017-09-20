@@ -2,7 +2,7 @@
 title: Where are they now?
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 [People]({{site.baseurl}}/people/index) >
 

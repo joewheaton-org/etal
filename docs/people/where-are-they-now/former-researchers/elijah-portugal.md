@@ -2,7 +2,7 @@
 title: Elijah Portugal
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 [People]({{site.baseurl}}/people/index) -> [Where are they now?]({{ site.baseurl }}/people/where-are-they now/index) > [Former Researchers]({{ site.baseurl }}/people/where-are-they-now/former-researchers/index) >
 

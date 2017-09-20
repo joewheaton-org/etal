@@ -2,7 +2,7 @@
 title: Working with Styles in ArcGIS
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 Getting your maps to look consistent (see [six C's](http://gis.joewheaton.org/about/grades#TOC-The-Six-C-s-Rubric)) can be a rather tedious series of right clicks and endless editing of nested property widows in ArcGIS. Styles can help. The ESRI[ documentation on styles](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//00s600000008000000.htm) is quite helpful and goes through how you can customize these styles using the style manager in ArcMap.
 

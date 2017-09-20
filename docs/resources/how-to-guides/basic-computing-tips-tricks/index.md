@@ -2,7 +2,7 @@
 title: Basic Computing Tips & Tricks
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### References
 

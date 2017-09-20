@@ -2,7 +2,7 @@
 title: How to Use Specific Software
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### By Software
 

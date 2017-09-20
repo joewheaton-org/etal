@@ -2,7 +2,7 @@
 title: Facilities
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 Describe lab and other on-campus facilities...
 JQL Space

@@ -2,7 +2,7 @@
 title: Writing Literature Reviews (for Grads)
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### How to Cite Properly
 

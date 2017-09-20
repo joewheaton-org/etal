@@ -2,7 +2,7 @@
 title: Guides & Tips
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### Topics
 

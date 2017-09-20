@@ -2,7 +2,7 @@
 title: Natalie Kramer
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 [People]({{site.baseurl}}/people/index) -> [Researchers & Technicians]({{ site.baseurl }}/people/researchers-technicians/index)
 

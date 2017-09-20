@@ -2,7 +2,7 @@
 title: FastStone Capture
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 There are different workflows you can use to create a video tutorial. You will need a computer with a microphone connected for any of these to do the voice over. The workflow and video below is based on using FastStone (ET-AL members can see [here](https://sites.google.com/a/joewheaton.org/et-al-private/resources/student-employee-reference-sheet/it-computing/software/video-tutorial-software?pli=1) for instructions to download and install software) and YouTube to disseminate the video. There are many video recording and editing software packages out there. Some free options include:
 

@@ -2,7 +2,7 @@
 title: High Resolution Imagery for Utah State
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 For USU students and employees, the State of Utah has acquired access to high resolution imagery. They are only accessible when on campus or using a VPN.  The data is served by [Utah's AGRC](https://gis.utah.gov/). Below are the links set up for USU. A variety of layers are available:
 

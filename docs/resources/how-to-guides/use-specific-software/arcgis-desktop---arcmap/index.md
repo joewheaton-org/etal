@@ -2,7 +2,7 @@
 title: ArcGIS Desktop - ArcMap
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### ArcGIS Topics
 

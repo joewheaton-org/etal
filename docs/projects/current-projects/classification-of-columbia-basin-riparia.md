@@ -2,7 +2,7 @@
 title: USFS Classification of Columbia River Basin Riparian Vegetation
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 ![USFS_Logo_svg]({{ site.baseurl }}/assets/images/USFS_Logo_svg.gif)
 

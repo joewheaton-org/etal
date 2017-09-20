@@ -3,7 +3,7 @@ title: Dr. Joe Wheaton
 weight: 1
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 Job Title:**Assistant Professor**
 Primary Affiliation: [Department of Watershed Sciences](http://qcnr.usu.edu/wats/)

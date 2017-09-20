@@ -2,7 +2,7 @@
 title: EndNote
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 #### Topics
 

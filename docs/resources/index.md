@@ -2,7 +2,7 @@
 title: Resources
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 These pages are primarily intended as resources for FHC members, USU Students and collaborators we refer to here. 
 

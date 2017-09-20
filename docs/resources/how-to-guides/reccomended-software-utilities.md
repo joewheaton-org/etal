@@ -2,7 +2,7 @@
 title: Recommended Software & Utilities
 ---
 
-[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 
 These are primarily freebie utilities and software packages we often use in the lab.
 
