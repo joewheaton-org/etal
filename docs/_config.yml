@@ -1,5 +1,5 @@
 # Site title will be used everywhere
-title: Ecogeomorphology and Topographic Analysis Lab 
+title: Ecogeomorphology and Topographic Analysis Lab
 description: > # this means to ignore newlines until "baseurl:"
   Online help and documentation site for the site
 
@@ -15,7 +15,7 @@ markdown: kramdown
 # Syntax highlighter.
 highlighter: rouge
 
-# Choosing "default" layout means we don't need a "layout:default" in all our 
+# Choosing "default" layout means we don't need a "layout:default" in all our
 # front matter
 defaults:
   -
@@ -42,7 +42,7 @@ settings:
   autoPageContents:
     active: true
     onHome: false
-  # Options for the sidebar menu      
+  # Options for the sidebar menu
   sideMenu:
     homeItem: true
     startExpanded: false
@@ -65,5 +65,6 @@ settings:
   #   - title: Deploy
   #     url: index.html
 
-
-
+collections:
+  _publications
+    output: true
