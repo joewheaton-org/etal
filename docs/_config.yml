@@ -70,3 +70,5 @@ collections:
     output: true
   people-in-the-lab:
     output: true
+  news:
+    output: true
