@@ -1,6 +1,6 @@
 ---
 title: 2016 marks the most significant transformation of personnel in FHC history
-author: Joe Wheaton
+author: Wally Macfarlane
 thumbnail: 
 ---
 

@@ -64,7 +64,7 @@ settings:
   #     url: index.html
   #   - title: Deploy
   #     url: index.html
-#
+
 collections:
   publications:
     output: true
