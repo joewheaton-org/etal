@@ -8,6 +8,6 @@ Back in 2015, Damia Vericat, James Brasington and Joe put together a chapter rev
 
 2017. Vericat D, Wheaton JM and Brasington J. [Revisiting the Morphological Approach](https://www.researchgate.net/publication/316997409_5_Revisiting_the_Morphological_Approach_Opportunities_and_Challenges_with_Repeat_High-Resolution_Topography), Gravel-Bed Rivers. John Wiley & Sons, Ltd, pp. 121-158. DOI:  [10.1002/9781118971437.ch5](http://dx.doi.org/10.1002/9781118971437.ch5). (see Damia's talk [here](https://www.youtube.com/watch?v=JPuxqrXStNM))
 
-![GBR_Cover](C:\Users\lando\Documents\GitHub\etal\docs\assets\images\GBR_Cover.jpg)
+![GBR_Cover]({{ site.baseurl }}/assets/images/GBR_Cover.jpg)
 
-![Vericat_2017_GBR8](C:\Users\lando\Documents\GitHub\etal\docs\assets\images\Vericat_2017_GBR8.png)
+![Vericat_2017_GBR8]({{ site.baseurl }}/assets/images/Vericat_2017_GBR8.png)
