@@ -66,5 +66,7 @@ settings:
   #     url: index.html
 #
 collections:
-  _publications:
+  publications:
+    output: true
+  people-in-the-lab:
     output: true
