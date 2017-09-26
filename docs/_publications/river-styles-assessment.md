@@ -10,3 +10,5 @@ Gary O'Brien led this effort with collaborators Kirstie Fryirs and Gary Brierley
 - See [here](https://www.researchgate.net/publication/316280360_Atlas_of_maps_to_accompany_article) for Atlas
 
 ![JoM_OBrien]({{ site.baseurl }}/assets/images/JoM_OBrien.png)
+
+![JoM_OBrien_Atlas]({{ site.baseurl }}/assets/images/JoM_OBrien_Atlas.png)
